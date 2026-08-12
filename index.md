@@ -1,5 +1,3 @@
----
-
 # Power BI Analytics Portfolio
 
 ## End-to-End Analytics Delivery
