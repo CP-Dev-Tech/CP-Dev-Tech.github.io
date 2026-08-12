@@ -1,7 +1,5 @@
 ---
 
-## title: Power BI Analytics Portfolio
-
 # Power BI Analytics Portfolio
 
 ## End-to-End Analytics Delivery
