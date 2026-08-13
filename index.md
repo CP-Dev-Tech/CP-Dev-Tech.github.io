@@ -71,6 +71,19 @@ Across the projects and frameworks, the portfolio demonstrates how I:
 * Work across technical disciplines while recognising specialist ownership boundaries
 
 ---
+## Continuous Professional Development
+
+This portfolio also forms part of my ongoing Continuous Professional Development (CPD).
+
+I use practical projects and reusable delivery frameworks to deepen and extend my capability across Business Analysis, Data Analytics and the wider technologies and delivery disciplines that support modern business change.
+
+My approach to CPD is primarily self-directed and driven by a genuine interest in understanding how business, data, processes and technology work together to solve real problems. I use practical projects not simply to learn a tool or concept, but to apply it, challenge my understanding and develop evidence of how it can be used in a realistic delivery context.
+
+This includes critically reviewing and refining my approach as my knowledge and experience develop.
+
+The objective is continuous improvement of my professional practice rather than learning technologies in isolation.
+
+---
 
 ## Portfolio Content
 
