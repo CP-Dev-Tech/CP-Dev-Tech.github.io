@@ -47,7 +47,7 @@ The framework includes:
 
 Only selected examples are published within this portfolio. Complete reusable templates, editable diagrams and source artefacts are retained privately.
 
-[Explore the Power BI Delivery Framework →](/delivery-frameworks/power-bi-end-to-end/)
+[Explore Delivery Frameworks →](/delivery-frameworks/)
 
 ---
 
