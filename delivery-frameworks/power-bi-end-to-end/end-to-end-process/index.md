@@ -12,9 +12,11 @@ The process is intentionally broader than report development alone. It provides 
 
 ## High-Level Process
 
-> **Portfolio image to be added here**
+![Power BI End-to-End Delivery Framework - High-Level Process](/assets/delivery-frameworks/power-bi-end-to-end/power-bi-end-to-end-process-public.png)
+
+*Complete high-level Power BI analytics delivery lifecycle. © 2026 Carl Patten. Portfolio copy.*
 >
-> The published version will show the complete high-level process as a flattened, watermarked image. The editable process model and source files are retained privately.
+> The editable process model and source files are retained privately.
 
 ## How to Read the Process
 
