@@ -6,6 +6,14 @@ This section contains selected portfolio projects demonstrating practical capabi
 
 Each case study focuses on the problem being solved, the approach taken, the skills demonstrated and selected evidence from the completed work.
 
+## About this portfolio
+
+This portfolio complements my CV by providing practical evidence of how I approach and deliver technology and analytics solutions.
+
+The projects demonstrate not only the finished outputs, but also the thinking behind them — including problem definition, requirements analysis, solution design, data preparation, implementation, validation and governance.
+
+Where appropriate, selected artefacts are included to demonstrate the quality and structure of the work while protecting reusable source material and proprietary templates.
+
 ## Data & Analytics
 
 ### Power BI Governance Analytics
