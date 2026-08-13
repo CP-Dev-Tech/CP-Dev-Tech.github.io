@@ -12,9 +12,10 @@ Testing therefore covers data movement, transformation logic, analytical grain, 
 
 ## Process Diagram
 
-> **Portfolio diagram to be added here**
->
-> The published diagram will be a flattened, watermarked representation of the subprocess. The editable process model is retained privately.
+![18 - Perform End-to-End source-to_Report Testing subprocess](/assets/delivery-frameworks/power-bi-end-to-end/selected-subprocesses/18-perform-end-to-end-source-to-report-testing-public.png)
+
+*18 — Perform End-to-End Source-to-Report Testing. Selected subprocess from the Power BI End-to-End Delivery Framework. © 2026 Carl Patten. Portfolio copy.*
+> The editable process model is retained privately.
 
 ## What This Demonstrates
 
