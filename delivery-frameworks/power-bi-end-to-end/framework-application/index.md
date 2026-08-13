@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Power BI End-to-End Delivery Framework is intended to provide a reusable delivery structure rather than prescribe the exact implementation of every analytics project.
+The Power BI End-to-End Delivery Framework is intended to provide a reusable delivery structure rather than prescribe the exact implementation of every analytics project...
 
 Individual projects apply the framework according to their business problem, data landscape, analytical requirements, technical constraints and delivery context.
 
