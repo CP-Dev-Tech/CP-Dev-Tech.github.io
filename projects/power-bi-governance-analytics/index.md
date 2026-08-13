@@ -1,6 +1,6 @@
 # Power BI Governance Analytics
 
-[← Back to Projects](/projects/) · [Business Problem & Requirements →](business-problem-and-requirements/)
+[← Report & User Experience](/projects/power-bi-governance-analytics/report-and-ux/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Delivery Traceability →](/projects/power-bi-governance-analytics/delivery-traceability/)
 
 ## Project Overview
 
@@ -57,6 +57,8 @@ Selected evidence from the project will be presented in the following areas:
 * Final solution outcomes
 
 Full source artefacts, reusable templates and implementation files are retained privately.
+
+[← Report & User Experience](/projects/power-bi-governance-analytics/report-and-ux/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Delivery Traceability →](/projects/power-bi-governance-analytics/delivery-traceability/)
 
 ---
 
