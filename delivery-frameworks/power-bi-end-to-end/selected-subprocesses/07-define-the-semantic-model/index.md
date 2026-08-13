@@ -12,9 +12,10 @@ This helps prevent the semantic model from simply reflecting the physical shape 
 
 ## Process Diagram
 
-> **Portfolio diagram to be added here**
->
-> The published diagram will be a flattened, watermarked representation of the subprocess. The editable process model is retained privately.
+![07 - Define the Semantic Model subprocess](/assets/delivery-frameworks/power-bi-end-to-end/selected-subprocesses/07-define-the-semantic-model-public.png)
+
+*07 — Define the Semantic Model Selected subprocess from the Power BI End-to-End Delivery Framework. © 2026 Carl Patten. Portfolio copy.*
+> The editable process model is retained privately.
 
 ## What This Demonstrates
 
