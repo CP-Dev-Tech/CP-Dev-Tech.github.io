@@ -31,18 +31,45 @@ The complete framework contains:
 - Requirements and validation alignment
 - Delivery governance across the lifecycle
 
-## Portfolio Evidence
+## Explore the Framework
 
-Selected examples will be presented to demonstrate:
+### 1. End-to-End Process
 
-- The overall end-to-end process
-- Representative subprocess diagrams
-- How individual activities are defined
-- How process tasks consume and update project documentation
-- Task-to-document and section-level associations
-- How the framework was applied to a practical showcase project
+View the complete high-level Power BI analytics delivery lifecycle and understand how the major delivery stages connect from initial business problem through operational support.
 
-The complete framework, editable process models, association data and reusable document templates are retained privately.
+[Explore the End-to-End Process →](end-to-end-process/)
+
+### 2. Selected Subprocesses
+
+Explore representative detailed BPMN subprocesses showing how individual stages are decomposed into controlled activities, decisions and validation loops.
+
+[Explore Selected Subprocesses →](selected-subprocesses/)
+
+### 3. Document & Artefact Framework
+
+See how structured project documents and artefacts support the delivery lifecycle, including requirements, architecture, data preparation, semantic modelling, validation, deployment and operational support.
+
+[Explore the Document Framework →](document-framework/)
+
+### 4. Task-to-Document Traceability
+
+See how individual process activities are associated with the document sections that provide their inputs or receive their outputs.
+
+[Explore Delivery Traceability →](traceability/)
+
+### 5. Framework Application
+
+See how the framework has been applied to practical analytics projects, demonstrating the connection between the delivery methodology and implemented solutions.
+
+[View Framework Application →](framework-application/)
+
+## Portfolio Evidence Boundary
+
+The complete framework contains detailed BPMN process models, task-to-document associations and reusable delivery-document templates.
+
+This portfolio intentionally presents selected evidence sufficient to demonstrate the structure, depth and application of the framework without publishing the complete reusable source material.
+
+Editable process models, the complete subprocess library, full association data and reusable document templates are retained privately.
 
 [Home](/) · [Projects](/projects/) · [Delivery Frameworks](/delivery-frameworks/) · **Power BI End-to-End**
 
