@@ -1,6 +1,6 @@
 # Semantic Model
 
-[← Data Preparation](/projects/power-bi-governance-analytics/data-preparation/) · [Project Overview](/projects/power-bi-governance-analytics/)
+[← Data Preparation](/projects/power-bi-governance-analytics/data-preparation/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Report & User Experience →](/projects/power-bi-governance-analytics/report-and-ux/)
 
 ## Overview
 
@@ -33,6 +33,8 @@ Selected portfolio evidence will include:
 - Model capabilities and limitations
 
 The published model diagram is a flattened, watermarked portfolio representation. The complete semantic-model specification, PBIX implementation and reusable logic are retained privately.
+
+[← Data Preparation](/projects/power-bi-governance-analytics/data-preparation/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Report & User Experience →](/projects/power-bi-governance-analytics/report-and-ux/)
 
 ---
 
