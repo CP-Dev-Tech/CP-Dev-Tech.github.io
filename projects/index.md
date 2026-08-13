@@ -10,6 +10,8 @@ This portfolio complements my CV by providing practical evidence of how I approa
 
 The projects demonstrate not only the finished outputs, but also the thinking behind them — including problem definition, requirements analysis, solution design, data preparation, implementation, validation and governance.
 
+These showcases deliberately extend beyond traditional Business Analyst and Data Analyst boundaries to demonstrate the technical understanding needed to shape, challenge, validate and work effectively across end-to-end solutions—not to claim specialist expertise in every engineering or development discipline.
+
 Where appropriate, selected artefacts are included to demonstrate the quality and structure of the work while protecting reusable source material and proprietary templates.
 
 Each case study focuses on the problem being solved, the approach taken, the skills demonstrated and selected evidence from the completed work.
