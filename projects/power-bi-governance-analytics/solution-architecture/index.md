@@ -1,6 +1,7 @@
 # Solution Architecture
 
-[← Business Problem & Requirements](/projects/power-bi-governance-analytics/business-problem-and-requirements/) · [Project Overview](/projects/power-bi-governance-analytics/)
+[← Business Problem & Requirements](/projects/power-bi-governance-analytics/business-problem-and-requirements/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Data Preparation →](/projects/power-bi-governance-analytics/data-preparation/)
+
 
 ## Overview
 
@@ -30,6 +31,9 @@ Selected portfolio evidence will include:
 - Scope and future design considerations
 
 The published architecture diagram is a flattened, watermarked portfolio representation. The complete architecture documentation and editable source artefacts are retained privately.
+
+[← Business Problem & Requirements](/projects/power-bi-governance-analytics/business-problem-and-requirements/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Data Preparation →](/projects/power-bi-governance-analytics/data-preparation/)
+
 
 ---
 
