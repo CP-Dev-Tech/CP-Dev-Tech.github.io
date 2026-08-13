@@ -1,6 +1,6 @@
 # Report & User Experience
 
-[← Semantic Model](/projects/power-bi-governance-analytics/semantic-model/) · [Project Overview](/projects/power-bi-governance-analytics/)
+[← Semantic Model](/projects/power-bi-governance-analytics/semantic-model/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Validation & Testing →](/projects/power-bi-governance-analytics/validation-and-testing/)
 
 ## Overview
 
@@ -34,6 +34,8 @@ Selected portfolio evidence will include:
 * Examples of how requirements were translated into report outputs
 
 Only selected report views are presented publicly. The complete PBIX implementation and reusable report-development artefacts are retained privately.
+
+[← Semantic Model](/projects/power-bi-governance-analytics/semantic-model/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Validation & Testing →](/projects/power-bi-governance-analytics/validation-and-testing/)
 
 ---
 
