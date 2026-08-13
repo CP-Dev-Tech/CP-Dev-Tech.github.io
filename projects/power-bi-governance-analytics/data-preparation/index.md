@@ -1,6 +1,6 @@
 # Data Preparation
 
-[← Solution Architecture](/projects/power-bi-governance-analytics/solution-architecture/) · [Project Overview](/projects/power-bi-governance-analytics/)
+[← Solution Architecture](/projects/power-bi-governance-analytics/solution-architecture/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Semantic Model →](/projects/power-bi-governance-analytics/semantic-model/)
 
 ## Overview
 
@@ -32,6 +32,9 @@ Selected portfolio evidence will include:
 - Selected implementation decisions
 
 Only representative implementation examples are presented publicly. Complete Power Query logic, reusable transformation patterns and source artefacts are retained privately.
+
+[← Solution Architecture](/projects/power-bi-governance-analytics/solution-architecture/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Semantic Model →](/projects/power-bi-governance-analytics/semantic-model/)
+
 
 ---
 
