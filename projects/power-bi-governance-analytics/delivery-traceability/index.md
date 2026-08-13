@@ -1,6 +1,6 @@
 # Delivery Traceability
 
-[← Validation & Testing](/projects/power-bi-governance-analytics/validation-and-testing/) · [Project Overview](/projects/power-bi-governance-analytics/)
+[← Validation & Testing](/projects/power-bi-governance-analytics/validation-and-testing/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Outcome & Lessons Learned →](/projects/power-bi-governance-analytics/outcome-and-lessons-learned/)
 
 ## Overview
 
@@ -31,6 +31,8 @@ Selected portfolio evidence will include:
 * Examples showing how artefacts are updated through the process
 
 The complete association library and reusable traceability framework are retained privately. Public examples are provided to demonstrate the structure and application of the approach without exposing the full reusable framework.
+
+[← Validation & Testing](/projects/power-bi-governance-analytics/validation-and-testing/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Outcome & Lessons Learned →](/projects/power-bi-governance-analytics/outcome-and-lessons-learned/)
 
 ---
 
