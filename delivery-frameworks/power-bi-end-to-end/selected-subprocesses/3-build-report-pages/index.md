@@ -12,9 +12,11 @@ This creates a clear separation between **report design** and **report implement
 
 ## Process Diagram
 
-> **Portfolio diagram to be added here**
->
-> The published diagram will be a flattened, watermarked representation of the subprocess. The editable process model is retained privately.
+![13 - Build Report Pages subprocess](/assets/delivery-frameworks/power-bi-end-to-end/selected-subprocesses/13-build-report-pages-public.png)
+
+*13 — Build Report Pages. Selected subprocess from the Power BI End-to-End Delivery Framework. © 2026 Carl Patten. Portfolio copy.*
+> The editable process model is retained privately.
+
 
 ## What This Demonstrates
 
