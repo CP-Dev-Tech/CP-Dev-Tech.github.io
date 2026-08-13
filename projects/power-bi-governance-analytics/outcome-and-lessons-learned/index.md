@@ -1,6 +1,6 @@
 # Outcome & Lessons Learned
 
-[← Delivery Traceability](/projects/power-bi-governance-analytics/delivery-traceability/) · [Project Overview](/projects/power-bi-governance-analytics/)
+[← Delivery Traceability](/projects/power-bi-governance-analytics/delivery-traceability/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Back to Projects →](/projects/)
 
 ## Overview
 
@@ -31,6 +31,8 @@ Selected portfolio evidence will include:
 * Reflection on the delivery approach
 
 The complete project documentation and implementation artefacts are retained privately.
+
+[← Delivery Traceability](/projects/power-bi-governance-analytics/delivery-traceability/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Back to Projects →](/projects/)
 
 ---
 
