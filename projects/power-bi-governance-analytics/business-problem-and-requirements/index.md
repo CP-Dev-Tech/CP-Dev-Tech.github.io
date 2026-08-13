@@ -1,6 +1,6 @@
 # Business Problem & Requirements
 
-[← Project Overview](/projects/power-bi-governance-analytics/) · [Projects](/projects/)
+[← Project Overview](/projects/power-bi-governance-analytics/) · [Solution Architecture →](/projects/power-bi-governance-analytics/solution-architecture/)
 
 ## Overview
 
@@ -23,6 +23,8 @@ This section will include selected examples of:
 * Stakeholder analysis
 
 Only selected requirements and document extracts are presented publicly. The complete Business Requirements Document and reusable document structure are retained privately.
+
+[← Project Overview](/projects/power-bi-governance-analytics/) · [Solution Architecture →](/projects/power-bi-governance-analytics/solution-architecture/)
 
 ---
 
