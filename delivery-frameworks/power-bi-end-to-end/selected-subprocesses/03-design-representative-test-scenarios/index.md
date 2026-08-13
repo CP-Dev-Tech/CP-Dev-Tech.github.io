@@ -12,9 +12,10 @@ This reduces the risk of validating a completed solution against what was ultima
 
 ## Process Diagram
 
-> **Portfolio diagram to be added here**
->
-> The published diagram will be a flattened, watermarked representation of the subprocess. The editable process model is retained privately.
+![03 - Design Representative Test Scenarios](/assets/delivery-frameworks/power-bi-end-to-end/selected-subprocesses/03-design-representative-test-scenarios-public.png)
+
+*03 — Design Representative Test Scenarios. Selected subprocess from the Power BI End-to-End Delivery Framework. © 2026 Carl Patten. Portfolio copy.*
+> The editable process model is retained privately.
 
 ## What This Demonstrates
 
