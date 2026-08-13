@@ -18,11 +18,24 @@ Each case study focuses on the problem being solved, the approach taken, the ski
 
 ### Power BI Governance Analytics
 
-An end-to-end Power BI analytics solution designed to provide visibility of governance approval requests and highlight items requiring attention.
+A practical end-to-end analytics project demonstrating how a defined governance problem was translated into a working Power BI solution.
 
-**Skills demonstrated:** Power BI · Power Query · Semantic Modelling · DAX · Data Analysis · Business Analysis · Requirements Engineering · Validation · Azure DevOps
+The project follows the complete delivery lifecycle from business analysis and requirements through data preparation, semantic modelling, report development, validation and final solution review.
 
-[View project →](/projects/power-bi-governance-analytics/)
+**Business problem:**
+Approval requests could remain outstanding without clear management visibility of how long they had been waiting or who was responsible for action.
+
+**Solution:**
+A Power BI governance reporting solution designed to identify approval requests requiring attention and provide operational and management visibility of ageing approval activity.
+
+**Skills demonstrated:**
+Power BI · Power Query · DAX · Semantic Modelling · Data Analysis · Business Analysis · Requirements Engineering · BPMN · Azure DevOps · Validation & Testing
+
+**Case study includes:**
+Business Problem & Requirements · Solution Architecture · Data Preparation · Semantic Model · Report & User Experience · Validation & Testing · Delivery Traceability · Outcome & Lessons Learned
+
+[View the full case study →](/projects/power-bi-governance-analytics/)
+
 
 ---
 
