@@ -10,9 +10,11 @@ The objective is not simply to manipulate source data until it produces the requ
 
 ## Process Diagram
 
-> **Portfolio diagram to be added here**
->
-> The published diagram will be a flattened, watermarked representation of the subprocess. The editable process model is retained privately.
+![05 - Build Power Query Transformations subprocess](/assets/delivery-frameworks/power-bi-end-to-end/selected-subprocesses/05-build-power-query-transformations-public.png)
+
+*05 — Build Power Query Transformations Selected subprocess from the Power BI End-to-End Delivery Framework. © 2026 Carl Patten. Portfolio copy.*
+> The editable process model is retained privately.
+
 
 ## What This Demonstrates
 
