@@ -46,7 +46,7 @@ Demonstrates how approved analytical requirements, model capabilities and report
 
 Demonstrates how the completed solution is validated across the full analytical chain from source data through transformation, semantic modelling, calculation logic and final report output.
 
-[Explore subprocess →](18-perform-end-to-end-testing/)
+[Explore subprocess →](18-perform-end-to-end-source-to-report-testing/)
 
 ## What the Examples Demonstrate
 
