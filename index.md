@@ -1,5 +1,8 @@
 # Business Analysis & Data Analytics Portfolio
 
+**Home** · [Projects](/projects/) · [Delivery Frameworks](/delivery-frameworks/)
+
+
 This portfolio provides practical evidence of how I approach business problems, analyse requirements and data, and contribute to the design and delivery of technology and analytics solutions.
 
 My core focus is **Business Analysis and Data Analytics**. The projects deliberately include selected work across the wider technology lifecycle where this demonstrates the technical understanding needed to work effectively with developers, data engineers, architects and other specialists—not to claim specialist expertise in every discipline.
@@ -74,6 +77,9 @@ Across the projects and frameworks, the portfolio demonstrates how I:
 A CV summarises experience and achievements. This portfolio complements it by showing selected examples of the actual analysis, documentation, solution design and implementation work behind those achievements.
 
 Published material is intentionally curated for professional evaluation. Full source projects, reusable templates and proprietary framework material are retained privately.
+
+**Home** · [Projects](/projects/) · [Delivery Frameworks](/delivery-frameworks/)
+
 
 ---
 
