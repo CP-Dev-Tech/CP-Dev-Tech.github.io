@@ -10,9 +10,10 @@ The objective is to understand **why change is required**, who is affected and w
 
 ## Process Diagram
 
-> **Portfolio diagram to be added here**
->
-> The published diagram will be a flattened, watermarked representation of the subprocess. The editable process model is retained privately.
+![01 - Define the Business Problem subprocess](/assets/delivery-frameworks/power-bi-end-to-end/selected-subprocesses/01-define-the-business-problem-public.png)
+
+*01 — Define the Business Problem. Selected subprocess from the Power BI End-to-End Delivery Framework. © 2026 Carl Patten. Portfolio copy.*
+> The editable process model is retained privately.
 
 ## What This Demonstrates
 
