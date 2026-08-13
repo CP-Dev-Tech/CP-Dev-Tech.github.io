@@ -1,6 +1,6 @@
 # Power BI End-to-End Delivery Framework
 
-[Home](/) · [Projects](/projects/) · **Delivery Frameworks**
+[Home](/) · [Projects](/projects/) · [Delivery Frameworks](/delivery-frameworks/) · **Power BI End-to-End**
 
 ## Framework Overview
 
@@ -44,7 +44,7 @@ Selected examples will be presented to demonstrate:
 
 The complete framework, editable process models, association data and reusable document templates are retained privately.
 
-[Home](/) · [Projects](/projects/) · **Delivery Frameworks**
+[Home](/) · [Projects](/projects/) · [Delivery Frameworks](/delivery-frameworks/) · **Power BI End-to-End**
 
 ---
 
