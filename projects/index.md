@@ -1,6 +1,6 @@
 # Projects
 
-[← Back to Portfolio Home](/)
+[Home](/) · **Projects** · [Delivery Frameworks](/delivery-frameworks/)
 
 This section contains selected portfolio projects demonstrating practical capability across data analytics, business analysis and technology delivery.
 
@@ -42,6 +42,8 @@ Business Problem & Requirements · Solution Architecture · Data Preparation · 
 ---
 
 Additional projects will be added as the portfolio develops.
+
+[Home](/) · **Projects** · [Delivery Frameworks](/delivery-frameworks/)
 
 ---
 
