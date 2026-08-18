@@ -196,3 +196,5 @@ This provides sufficient evidence to demonstrate the documentation and governanc
 ---
 
 © 2026 Carl Patten. All rights reserved.
+
+<!-- VS Code Git test -->
