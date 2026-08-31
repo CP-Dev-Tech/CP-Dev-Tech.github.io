@@ -38,7 +38,6 @@ Follow the project from business problem definition through data preparation, mo
 
 ## Tools and Technologies
 
-## Tools and Technologies
 
 | Tool / Technology | Use in the Project |
 |---|---|
@@ -54,8 +53,6 @@ Follow the project from business problem definition through data preparation, mo
 | **GitHub Pages** | Public presentation of the completed project case study |
 | **Markdown** | Controlled project documentation and public-facing portfolio content |
 | **VS Code** | Local documentation and repository maintenance |
-
-## Portfolio Evidence
 
 ## Portfolio Evidence
 
