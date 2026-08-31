@@ -1,6 +1,6 @@
 # Validation & Testing
 
-[← Power BI Dashboards & User Experience](/projects/power-bi-governance-analytics/report-and-ux/) · [Project Overview](/projects/power-bi-governance-analytics/)
+[← Power BI Dashboards & User Experience](/projects/power-bi-governance-analytics/report-and-ux/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Requirements and Delivery Tracebility](/projects/delivery-traceability/)
 
 ## Overview
 
@@ -233,6 +233,8 @@ The public case study presents selected evidence of:
 - final validation outcome.
 
 Only representative validation evidence is published. The complete Test and Validation Record, controlled test data and detailed defect evidence remain within the project documentation.
+
+[← Power BI Dashboards & User Experience](/projects/power-bi-governance-analytics/report-and-ux/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Requirements and Delivery Tracebility](/projects/delivery-traceability/)
 
 ---
 
