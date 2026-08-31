@@ -1,6 +1,6 @@
 # Requirements & Delivery Traceability
 
-[← Validation & Testing](/projects/power-bi-governance-analytics/validation-and-testing/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Outcome & Lessons Learned →](/projects/power-bi-governance-analytics/outcome-and-lessons-learned/)
+[← Validation & Testing](/projects/azure-devops-governance-analytics/validation-and-testing/) · [Project Overview](/projects/azure-devops-governance-analytics/) · [Outcome & Lessons Learned →](/projects/azure-devops-governance-analytics/outcome-and-lessons-learned/)
 
 ## Overview
 
@@ -177,7 +177,7 @@ The public case study presents selected evidence of:
 
 The public examples are deliberately selective so that the traceability method can be demonstrated without reproducing the complete controlled project records.
 
-[← Validation & Testing](/projects/power-bi-governance-analytics/validation-and-testing/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Outcome & Lessons Learned →](/projects/power-bi-governance-analytics/outcome-and-lessons-learned/)
+[← Validation & Testing](/projects/azure-devops-governance-analytics/validation-and-testing/) · [Project Overview](/projects/azure-devops-governance-analytics/) · [Outcome & Lessons Learned →](/projects/azure-devops-governance-analytics/outcome-and-lessons-learned/)
 
 ---
 

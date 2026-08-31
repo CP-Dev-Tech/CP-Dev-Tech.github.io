@@ -1,6 +1,6 @@
 # Power BI Dashboards & User Experience
 
-[← Semantic Model](/projects/power-bi-governance-analytics/semantic-model/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Validation & Testing →](/projects/power-bi-governance-analytics/validation-and-testing/)
+[← Semantic Model](/projects/azure-devops-governance-analytics/semantic-model/) · [Project Overview](/projects/azure-devops-governance-analytics/) · [Validation & Testing →](/projects/azure-devops-governance-analytics/validation-and-testing/)
 
 ## Overview
 
@@ -299,7 +299,7 @@ The public case study presents selected evidence of:
 
 Published screenshots use synthetic, anonymised or sanitised portfolio data. The working Power BI implementation and complete controlled report-design documentation remain within the project environment.
 
-[← Semantic Model](/projects/power-bi-governance-analytics/semantic-model/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Validation & Testing →](/projects/power-bi-governance-analytics/validation-and-testing/)
+[← Semantic Model](/projects/azure-devops-governance-analytics/semantic-model/) · [Project Overview](/projects/azure-devops-governance-analytics/) · [Validation & Testing →](/projects/azure-devops-governance-analytics/validation-and-testing/)
 
 ---
 

@@ -1,6 +1,6 @@
 # Outcome & Lessons Learned
 
-[← Requirements & Delivery Traceability](/projects/power-bi-governance-analytics/delivery-traceability/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Back to Projects →](/projects/)
+[← Requirements & Delivery Traceability](/projects/azure-devops-governance-analytics/delivery-traceability/) · [Project Overview](/projects/azure-devops-governance-analytics/) · [Back to Projects →](/projects/)
 
 ## Overview
 
@@ -227,7 +227,7 @@ The public case study presents selected evidence of:
 
 The working Power BI implementation and complete controlled project documentation remain within the project environment.
 
-[← Requirements & Delivery Traceability](/projects/power-bi-governance-analytics/delivery-traceability/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Back to Projects →](/projects/)
+[← Requirements & Delivery Traceability](/projects/azure-devops-governance-analytics/delivery-traceability/) · [Project Overview](/projects/azure-devops-governance-analytics/) · [Back to Projects →](/projects/)
 
 ---
 

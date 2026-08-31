@@ -1,6 +1,6 @@
 # Solution Architecture
 
-[← Business Problem & Requirements](/projects/power-bi-governance-analytics/business-problem-and-requirements/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Data Preparation →](/projects/power-bi-governance-analytics/data-preparation/)
+[← Business Problem & Requirements](/projects/azure-devops-governance-analytics/business-problem-and-requirements/) · [Project Overview](/projects/azure-devops-governance-analytics/) · [Data Preparation →](/projects/azure-devops-governance-analytics/data-preparation/)
 
 ## Overview
 
@@ -158,7 +158,7 @@ The public case study presents selected evidence of:
 
 The published architecture diagram is a flattened, watermarked portfolio representation. Editable architecture artefacts and working implementation files are retained within the controlled project environment.
 
-[← Business Problem & Requirements](/projects/power-bi-governance-analytics/business-problem-and-requirements/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Data Preparation →](/projects/power-bi-governance-analytics/data-preparation/)
+[← Business Problem & Requirements](/projects/azure-devops-governance-analytics/business-problem-and-requirements/) · [Project Overview](/projects/azure-devops-governance-analytics/) · [Data Preparation →](/projects/azure-devops-governance-analytics/data-preparation/)
 
 ---
 

@@ -36,7 +36,7 @@ Power BI · Power Query · DAX · Semantic Modelling · Data Analysis · Busines
 **Case study includes:**
 Business Problem & Requirements · Solution Architecture · Data Preparation · Semantic Model · Report & User Experience · Validation & Testing · Delivery Traceability · Outcome & Lessons Learned
 
-[View the full case study →](/projects/power-bi-governance-analytics/)
+[View the full case study →](/projects/azure-devops-governance-analytics/)
 
 
 ---

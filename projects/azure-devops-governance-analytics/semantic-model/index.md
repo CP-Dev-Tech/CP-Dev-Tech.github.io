@@ -1,6 +1,6 @@
 # Semantic Model
 
-[← Data Preparation](/projects/power-bi-governance-analytics/data-preparation/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Power BI Dashboards & User Experience →](/projects/power-bi-governance-analytics/report-and-ux/)
+[← Data Preparation](/projects/azure-devops-governance-analytics/data-preparation/) · [Project Overview](/projects/azure-devops-governance-analytics/) · [Power BI Dashboards & User Experience →](/projects/azure-devops-governance-analytics/report-and-ux/)
 
 ## Overview
 
@@ -286,6 +286,6 @@ The public case study presents selected evidence of:
 
 The published semantic-model diagram is a flattened, watermarked portfolio representation. The working PBIX, complete semantic-model specification and implementation artefacts remain within the controlled project environment.
 
-[← Data Preparation](/projects/power-bi-governance-analytics/data-preparation/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Power BI Dashboards & User Experience →](/projects/power-bi-governance-analytics/report-and-ux/)
+[← Data Preparation](/projects/azure-devops-governance-analytics/data-preparation/) · [Project Overview](/projects/azure-devops-governance-analytics/) · [Power BI Dashboards & User Experience →](/projects/azure-devops-governance-analytics/report-and-ux/)
 
 © 2026 Carl Patten. All rights reserved.

@@ -28,7 +28,7 @@ The solution addresses governance and delivery visibility across areas including
 
 The project provides practical evidence of how business analysis, data preparation, semantic modelling, report development and validation can be connected within a controlled delivery lifecycle.
 
-[Explore the Power BI Governance Analytics project →](/projects/power-bi-governance-analytics/)
+[Explore the Power BI Governance Analytics project →](/projects/azure-devops-governance-analytics/)
 
 ## Framework to Project
 

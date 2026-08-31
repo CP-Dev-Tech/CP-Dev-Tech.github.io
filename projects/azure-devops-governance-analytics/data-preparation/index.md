@@ -1,6 +1,6 @@
 # Data Preparation
 
-[← Solution Architecture](/projects/power-bi-governance-analytics/solution-architecture/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Semantic Model →](/projects/power-bi-governance-analytics/semantic-model/)
+[← Solution Architecture](/projects/azure-devops-governance-analytics/solution-architecture/) · [Project Overview](/projects/azure-devops-governance-analytics/) · [Semantic Model →](/projects/azure-devops-governance-analytics/semantic-model/)
 
 ## Overview
 
@@ -207,7 +207,7 @@ The public case study presents selected evidence of:
 
 Only representative implementation evidence is published. Working Power Query logic, source configuration and implementation artefacts remain within the controlled project environment.
 
-[← Solution Architecture](/projects/power-bi-governance-analytics/solution-architecture/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Semantic Model →](/projects/power-bi-governance-analytics/semantic-model/)
+[← Solution Architecture](/projects/azure-devops-governance-analytics/solution-architecture/) · [Project Overview](/projects/azure-devops-governance-analytics/) · [Semantic Model →](/projects/azure-devops-governance-analytics/semantic-model/)
 
 ---
 
