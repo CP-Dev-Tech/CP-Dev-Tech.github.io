@@ -10,7 +10,7 @@ The project is presented as a practical case study demonstrating how **business 
 
 ## Solution Preview
 
-![Azure DevOps Governance Analytics Power BI dashboards](/assets/projects/azure-devops-governance-analytics/dashboard-showcase.png)
+/assets/projects/azure-devops-governance-analytics/dashboard-showcase.png
 
 *The completed Power BI solution provides executive governance visibility, approval monitoring, actionable overdue exceptions and requirements-health analysis.*
 
