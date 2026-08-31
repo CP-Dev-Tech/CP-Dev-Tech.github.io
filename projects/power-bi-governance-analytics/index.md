@@ -8,6 +8,14 @@ This showcase demonstrates the end-to-end delivery of an **Azure DevOps governan
 
 The project is presented as a practical case study demonstrating how **business analysis and data analytics** were combined across requirements definition, source assessment, data preparation, semantic modelling, DAX development, report design, validation and delivery governance to solve a defined business problem.
 
+## Solution Preview
+
+![Azure DevOps Governance Analytics Power BI dashboards](/assets/projects/azure-devops-governance-analytics/dashboard-showcase.png)
+
+*The completed Power BI solution provides executive governance visibility, approval monitoring, actionable overdue exceptions and requirements-health analysis.*
+
+The four business-facing dashboards provide complementary views of the same governed Azure DevOps requirement population — from executive summary through analytical monitoring to actionable detail.
+
 ## Explore the Project
 
 Follow the project from business problem definition through data preparation, modelling, report development and validation.
