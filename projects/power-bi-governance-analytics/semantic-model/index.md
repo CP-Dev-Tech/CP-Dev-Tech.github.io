@@ -210,7 +210,7 @@ SWITCH (
 A disconnected presentation structure allows several independent governance measures to be presented through one visual without introducing artificial relationships into the analytical model.
 
 
-Requirements-Health Grain Example
+### Requirements-Health Grain Example
 
 A requirement can have one overall health classification while also having several contributing issues.
 
