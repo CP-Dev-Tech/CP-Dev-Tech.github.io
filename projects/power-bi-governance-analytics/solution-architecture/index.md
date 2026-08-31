@@ -91,6 +91,33 @@ For example:
 - `FeatureWorkItemIDs` validates whether a parent work item is a valid Feature; and
 - `Executive Exception Type` supplies the controlled category axis for the Executive material-exception visual.
 
+## Project Evidence
+
+### Implemented Solution Architecture
+
+![Azure DevOps Governance Analytics solution architecture](/assets/projects/azure-devops-governance-analytics/solution-architecture.png)
+
+*Solution architecture showing the implemented flow from Azure DevOps through historical and current-state extraction, Power Query transformation, semantic modelling and Power BI reporting.*
+
+**What this demonstrates:**  
+The source design was driven by the analytical requirements rather than by a single preferred extraction method. Historical approval analysis is provided through Azure DevOps Analytics Views, while WIQL and the REST API provide targeted current-state enrichment required for requirements-health assessment.
+
+### Architecture Decision Evidence
+
+| Design Requirement | Architectural Response |
+|---|---|
+| Historical approval behaviour was required | Daily Azure DevOps Analytics View snapshots retained through `ApprovalHistory` |
+| Current reporting required one row per User Story | Separate `CurrentApprovals` structure created |
+| Description and Acceptance Criteria completeness had to be assessed | Current work items enriched through WIQL and the Azure DevOps REST API |
+| Raw long-text requirement content was unnecessary for reporting | Boolean completeness indicators retained instead of full text |
+| A User Story could have multiple health issues | Separate issue-grain `RequirementsHealthReasons` structure implemented |
+| Valid Feature parentage had to be checked | Disconnected `FeatureWorkItemIDs` helper structure used |
+| Executive exception categories required a controlled axis | Disconnected `Executive Exception Type` presentation helper used |
+| KPI results had to reconcile to detailed records | Validation layer retained alongside the business-facing reporting pages |
+
+**What this demonstrates:**  
+Each principal architectural component exists to satisfy a specific reporting, data-quality or validation requirement. The model structure was therefore a consequence of the business and analytical rules rather than an arbitrary Power BI design.
+
 ## Security and Privacy Considerations
 
 The portfolio architecture deliberately separates public evidence from working implementation artefacts.
@@ -119,15 +146,15 @@ The design also demonstrates how different Azure DevOps interfaces can be combin
 
 ## Evidence Presented
 
-The portfolio includes selected evidence of:
+The public case study presents selected evidence of:
 
-- the high-level solution architecture;
+- the implemented high-level solution architecture;
 - source-to-report data flow;
 - Azure DevOps Analytics View and REST API integration;
-- semantic-model structure;
-- architectural design decisions;
+- semantic-model design decisions;
+- separation of historical, current-state and issue-grain data;
 - data-minimisation and privacy controls; and
-- validation of the implemented data flow.
+- validation considerations incorporated into the architecture.
 
 The published architecture diagram is a flattened, watermarked portfolio representation. Editable architecture artefacts and working implementation files are retained within the controlled project environment.
 
