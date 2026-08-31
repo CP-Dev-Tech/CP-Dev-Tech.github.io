@@ -1,6 +1,6 @@
 # Azure DevOps Governance Analytics
 
-[Home](/) · [Projects](/projects/) · **Power BI Governance Analytics**
+[Home](/) · [Projects](/projects/) · **Azure DevOps Governance Analytics**
 
 ## Project Overview
 
