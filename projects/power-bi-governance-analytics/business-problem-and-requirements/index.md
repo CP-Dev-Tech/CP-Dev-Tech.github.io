@@ -130,7 +130,7 @@ The public case study presents selected evidence from the controlled requirement
 - stakeholder and persona analysis; and
 - requirements traceability through implementation and testing.
 
-The complete controlled Business Requirements Document remains part of the project documentation, while the public case study presents the elements most useful for demonstrating the analysis and decision-making behind the solution.
+The complete controlled Business Requirements Document remains part of the private project documentation, while the public case study presents the elements most useful for demonstrating the analysis and decision-making behind the solution.
 
 [← Project Overview](/projects/power-bi-governance-analytics/) · [Solution Architecture →](/projects/power-bi-governance-analytics/solution-architecture/)
 
