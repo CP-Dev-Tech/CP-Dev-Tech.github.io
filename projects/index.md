@@ -18,9 +18,9 @@ Each case study focuses on the problem being solved, the approach taken, the ski
 
 ## Data & Analytics
 
-### Power BI Governance Analytics
+### Azure DevOps Governance Analytics
 
-A practical end-to-end analytics project demonstrating how a defined governance problem was translated into a working Power BI solution.
+A practical end-to-end analytics project using Azure DevOps data to provide approval-governance and requirements-health reporting in Power BI.
 
 The project follows the complete delivery lifecycle from business analysis and requirements through data preparation, semantic modelling, report development, validation and final solution review.
 
@@ -28,7 +28,7 @@ The project follows the complete delivery lifecycle from business analysis and r
 Approval requests could remain outstanding without clear management visibility of how long they had been waiting or who was responsible for action.
 
 **Solution:**
-A Power BI governance reporting solution designed to identify approval requests requiring attention and provide operational and management visibility of ageing approval activity.
+A Power BI analytics solution using Azure DevOps current and historical data to identify approval exceptions, assess requirements health and provide executive governance visibility.
 
 **Skills demonstrated:**
 Power BI · Power Query · DAX · Semantic Modelling · Data Analysis · Business Analysis · Requirements Engineering · BPMN · Azure DevOps · Validation & Testing
