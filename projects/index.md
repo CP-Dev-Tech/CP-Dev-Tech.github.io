@@ -20,7 +20,7 @@ Each case study focuses on the problem being solved, the approach taken, the ski
 
 ### Azure DevOps Governance Analytics
 
-<img src="/assets/projects/azure-devops-governance-analytics/executive-overview-unfiltered.png" alt="Azure DevOps Governance Analytics" width="380">
+<img src="/assets/projects/azure-devops-analytics/executive-overview-unfiltered.png" alt="Azure DevOps Governance Analytics" width="380">
 
 A practical end-to-end analytics project using Azure DevOps data to provide approval-governance and requirements-health reporting in Power BI.
 
