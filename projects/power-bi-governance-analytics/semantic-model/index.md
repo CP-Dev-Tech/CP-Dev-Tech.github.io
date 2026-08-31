@@ -171,5 +171,121 @@ RETURN
         ActiveRequests - OverdueRequests,
         0
     )
+```
 
-    
+### Representative DAX — Material Governance Exceptions
+
+The Executive dashboard uses a disconnected helper table and a single measure to return the appropriate value for each controlled exception category.
+
+```DAX
+Executive Exception Count =
+SWITCH (
+    SELECTEDVALUE ( 'Executive Exception Type'[Exception] ),
+    "Overdue Approvals", [Overdue Approval Requests],
+    "Critical Requirements", [Critical Requirements],
+    "Attention Required", [Attention Required Requirements],
+    "Completed/Closed Unapproved", [Completed or Closed Unapproved Count],
+    BLANK ()
+)
+```
+
+### Representative DAX — Material Governance Exceptions
+
+The Executive dashboard uses a disconnected helper table and a single measure to return the appropriate value for each controlled exception category.
+
+```DAX
+Executive Exception Count =
+SWITCH (
+    SELECTEDVALUE ( 'Executive Exception Type'[Exception] ),
+    "Overdue Approvals", [Overdue Approval Requests],
+    "Critical Requirements", [Critical Requirements],
+    "Attention Required", [Attention Required Requirements],
+    "Completed/Closed Unapproved", [Completed or Closed Unapproved Count],
+    BLANK ()
+)
+```
+
+**What this demonstrates:**
+
+A disconnected presentation structure allows several independent governance measures to be presented through one visual without introducing artificial relationships into the analytical model.
+
+
+Requirements-Health Grain Example
+
+A requirement can have one overall health classification while also having several contributing issues.
+
+For example:
+
+```
+User Story
+    ↓
+Overall Health Status
+    Critical
+    ↓
+Applicable Health Reasons
+    ├── Approval overdue
+    ├── Description missing
+    └── Acceptance Criteria missing
+```
+
+The User Story is counted once in the Critical Requirements KPI while each applicable issue remains available through RequirementsHealthReasons.
+
+**What this demonstrates:**
+
+The model deliberately separates requirement-level classification from issue-level analysis, preventing multiple issues on one requirement from inflating the number of affected requirements.
+
+### Model Validation
+
+The semantic model was validated through controlled source-to-report and cross-visual reconciliation.
+
+Validation included:
+
+- confirming one current record per User Story;
+- checking relationship cardinality and filter propagation;
+- reconciling approval KPIs to detailed User Story populations;
+- reconciling Healthy, Attention Required and Critical classifications to Total Requirements;
+- verifying that issue-level counts can exceed affected-requirement counts where multiple reasons apply;
+- validating controlled approval-age scenarios;
+- testing slicer behaviour across the principal reporting pages; and
+- confirming executive summary values against the underlying analytical measures.
+
+A dedicated Validation / Model Validation page is retained within the PBIX to support this technical assurance without exposing validation controls through the principal business navigation.
+
+## Model Outcome
+
+The semantic model provides a controlled analytical foundation for the complete reporting solution.
+
+It supports:
+
+- one consistent current User Story population;
+- historical approval analysis;
+- approval-period ageing;
+- overdue-approval identification;
+- requirements-completeness assessment;
+- requirements-health classification;
+- issue-level health analysis;
+- executive governance KPIs;
+- consistent filtering; and
+- KPI-to-detail reconciliation.
+
+The resulting design demonstrates that semantic modelling was treated as a distinct analytical design activity between data preparation and report presentation rather than simply as a collection of tables behind dashboard visuals.
+
+## Evidence Presented
+
+The public case study presents selected evidence of:
+
+- semantic-model structure;
+- analytical table grain;
+- relationship design;
+- current-state and historical-data separation;
+- requirements-health modelling;
+- disconnected helper-table design;
+- representative DAX measures;
+- business-rule implementation; and
+- model validation.
+
+The published semantic-model diagram is a flattened, watermarked portfolio representation. The working PBIX, complete semantic-model specification and implementation artefacts remain within the controlled project environment.
+
+[← Data Preparation](/projects/power-bi-governance-analytics/data-preparation/) · [Project Overview](/projects/power-bi-governance-analytics/) · [Power BI Dashboards & User Experience →](/projects/power-bi-governance-analytics/report-and-ux/)
+
+© 2026 Carl Patten. All rights reserved.
