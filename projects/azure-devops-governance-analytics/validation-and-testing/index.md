@@ -183,7 +183,7 @@ Selected recorded results include:
 
 ### Performance Analyzer Evidence
 
-![Executive Governance Overview Performance Analyzer](/assets/projects/azure-devops-governance-analytics/performance-analyzer-executive-governance-overview.png)
+![Executive Governance Overview Performance Analyzer](../../assets/projects/azure-devops-governance-analytics/executive-overview-performance-analyzer.png)
 
 *Power BI Performance Analyzer evidence captured during final validation of the Executive Governance Overview.*
 
