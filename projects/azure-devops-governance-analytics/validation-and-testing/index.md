@@ -50,7 +50,7 @@ Representative test areas included:
 
 ### Model Validation Page
 
-![Power BI Model Validation](/assets/projects/azure-devops-governance-analytics/model-validation.png)
+![Power BI Model Validation](../../../assets/projects/azure-devops-analytics/validation-page.png)
 
 *Dedicated Power BI validation page used to reconcile analytical populations, classifications and model behaviour during development and final testing.*
 
@@ -183,7 +183,7 @@ Selected recorded results include:
 
 ### Performance Analyzer Evidence
 
-![Executive Governance Overview Performance Analyzer](../../assets/projects/azure-devops-governance-analytics/executive-overview-performance-analyzer.png)
+![Executive Governance Overview Performance Analyzer](../../../assets/projects/azure-devops-analytics/executive-overview-performance-analyzer.png)
 
 *Power BI Performance Analyzer evidence captured during final validation of the Executive Governance Overview.*
 
