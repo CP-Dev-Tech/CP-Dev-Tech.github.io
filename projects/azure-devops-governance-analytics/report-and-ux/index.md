@@ -121,7 +121,7 @@ User-experience decisions considered the risk of analytical misinterpretation ra
 
 ### Approval Governance Summary
 
-![Approval Governance Summary](../../../assets/projects/azure-devops-analytics/approval-governance-suummary-overview.png)
+![Approval Governance Summary](../../../assets/projects/azure-devops-analytics/approval-governance-summary-overview.png)
 
 *Analytical approval-governance view showing current approval workload, overdue position and approval-age indicators.*
 
@@ -148,7 +148,7 @@ The page translates detailed approval-period logic into reusable management info
 
 ### Overdue Approval Exceptions
 
-![Overdue Approval Exceptions](/assets/projects/azure-devops-governance-analytics/overdue-approval-exceptions.png)
+![Overdue Approval Exceptions](../../../assets/projects/azure-devops-analytics/overdue-approvals-overview.png)
 
 *Operational exception view presenting the individual User Stories currently meeting the seven-day overdue-approval rule.*
 
