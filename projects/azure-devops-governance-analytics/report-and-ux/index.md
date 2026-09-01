@@ -77,7 +77,7 @@ The intent is that users learn the report structure once and can then move betwe
 
 ### Executive Governance Overview
 
-![Executive Governance Overview](/assets/projects/azure-devops-governance-analytics/executive-governance-overview.png)
+![Executive Governance Overview](../../../assets/projects/azure-devops-analytics/executive-overview-unfiltered.png)
 
 *Executive summary of the overall approval-governance and requirements-health position.*
 
@@ -121,7 +121,7 @@ User-experience decisions considered the risk of analytical misinterpretation ra
 
 ### Approval Governance Summary
 
-![Approval Governance Summary](/assets/projects/azure-devops-governance-analytics/approval-governance-summary.png)
+![Approval Governance Summary](../../../assets/projects/azure-devops-analytics/approval-governance-suummary-overview.png)
 
 *Analytical approval-governance view showing current approval workload, overdue position and approval-age indicators.*
 
@@ -171,7 +171,7 @@ The reporting journey moves from summary governance information to an actionable
 
 ### Requirements Health
 
-![Requirements Health](/assets/projects/azure-devops-governance-analytics/requirements-health.png)
+![Requirements Health](../../../assets/projects/azure-devops-analytics/requirements-health-overview.png)
 
 *Requirements-health view combining overall classification, issue frequency and supporting User Story detail.*
 
