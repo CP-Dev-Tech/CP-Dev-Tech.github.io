@@ -95,7 +95,7 @@ For example:
 
 ### Implemented Solution Architecture
 
-![Azure DevOps Governance Analytics solution architecture](/assets/projects/azure-devops-governance-analytics/solution-architecture.png)
+![Azure DevOps Governance Analytics solution architecture](../../../assets/projects/azure-devops-analytics/solution-architecture.png)
 
 *Solution architecture showing the implemented flow from Azure DevOps through historical and current-state extraction, Power Query transformation, semantic modelling and Power BI reporting.*
 
