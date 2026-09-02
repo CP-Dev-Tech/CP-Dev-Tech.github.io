@@ -10,7 +10,9 @@ The project is presented as a practical case study demonstrating how **business 
 
 ## Solution Preview
 
-![Dashboard Showcase](../../assets/projects/azure-devops-analytics/dashboard-showcase.png)
+[![Dashboard Showcase](../../assets/projects/azure-devops-analytics/dashboard-showcase.png)](/projects/azure-devops-governance-analytics/business-problem-and-requirements/)
+
+*Click the dashboard showcase to explore the project from Business Problem & Requirements.*
 
 *The completed Power BI solution provides executive governance visibility, approval monitoring, actionable overdue exceptions and requirements-health analysis.*
 
