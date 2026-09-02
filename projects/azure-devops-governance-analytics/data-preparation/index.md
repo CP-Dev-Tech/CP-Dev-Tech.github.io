@@ -140,7 +140,7 @@ This made transformation validation part of the analytical delivery process rath
 
 ### Power Query Implementation
 
-![Power Query data preparation](/assets/projects/azure-devops-governance-analytics/data-preparation-power-query.png)
+![Power Query data preparation](../../../assets/projects/azure-devops-analytics/data-preparation-power-query.png)
 
 *Power Query implementation showing representative transformation queries used to prepare Azure DevOps data for the analytical model.*
 
