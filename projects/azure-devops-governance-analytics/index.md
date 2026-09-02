@@ -16,7 +16,6 @@ The project is presented as a practical case study demonstrating how **business 
 Click the dashboard showcase to explore the project from Business Problem & Requirements.
 </p>
 
-<br>
 </br>
 
 *The completed Power BI solution provides executive governance visibility, approval monitoring, actionable overdue exceptions and requirements-health analysis.*
