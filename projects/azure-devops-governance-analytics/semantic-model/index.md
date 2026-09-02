@@ -133,7 +133,7 @@ Representative measure groups include:
 
 ### Implemented Semantic Model
 
-![Azure DevOps Governance Analytics semantic model](/assets/projects/azure-devops-governance-analytics/semantic-model.png)
+![Azure DevOps Governance Analytics semantic model](../../../assets/projects/azure-devops-analytics/azure-devops-governance-analytics-semantic-model.png)
 
 *Implemented Power BI semantic model showing the separation of current-state, historical, approval-period, requirements-completeness and issue-level analytical structures.*
 
