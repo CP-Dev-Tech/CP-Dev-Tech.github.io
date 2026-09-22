@@ -52,7 +52,7 @@ Only selected portfolio evidence is published. Complete reusable process definit
     flex-wrap: wrap;
   ">
     <img src="/assets/branding/agileba-practitioner.png"
-         alt="Credential 1"
+         alt="AgileBA Practitioner certification badge"
          style="max-height: 48px; width: auto;">
 
     <!--

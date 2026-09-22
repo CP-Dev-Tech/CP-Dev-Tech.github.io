@@ -90,7 +90,7 @@ Published material is intentionally curated for professional evaluation and Cont
     flex-wrap: wrap;
   ">
     <img src="/assets/branding/agileba-practitioner.png"
-         alt="Credential 1"
+         alt="AgileBA Practitioner certification badge"
          style="max-height: 48px; width: auto;">
 
     <!--

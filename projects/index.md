@@ -53,7 +53,7 @@ Additional projects will be added as the portfolio develops.
     flex-wrap: wrap;
   ">
     <img src="/assets/branding/agileba-practitioner.png"
-         alt="Credential 1"
+         alt="AgileBA Practitioner certification badge"
          style="max-height: 48px; width: auto;">
 
     <!--
