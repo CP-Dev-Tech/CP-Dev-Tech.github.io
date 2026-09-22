@@ -24,19 +24,9 @@ An end-to-end analytics case study demonstrating requirements engineering, gover
 
 ## Showcase Projects
 
-Practical case studies demonstrating how problems and requirements have been translated into working solutions.
+Practical end-to-end case studies demonstrating how business problems and requirements are translated into working technology and analytics solutions.
 
-The projects include selected evidence of:
-
-* Business analysis and requirements engineering
-* Process analysis and BPMN modelling
-* Data analysis and preparation
-* Power BI and semantic modelling
-* Solution and data-flow design
-* Testing and validation
-* Technology integration
-* Delivery governance and traceability
-
+Projects include selected evidence from requirements engineering, process analysis, data preparation, semantic modelling, solution design, testing, validation and delivery governance.
 Each showcase explains the problem, approach, implementation and outcome, with selected artefacts provided as evidence of the work.
 
 [Explore Showcase Projects →](/projects/)
