@@ -59,23 +59,19 @@ Only selected examples are published within this portfolio. Complete reusable te
 
 ## Continuous Professional Development
 
-This portfolio also forms part of my ongoing Continuous Professional Development (CPD).
+This portfolio forms part of my ongoing **Continuous Professional Development (CPD)** and provides a structured way to maintain, extend and evidence my professional capability across Business Analysis, Data Analytics and related delivery disciplines.
 
-I use practical projects and reusable delivery frameworks to deepen and extend my capability across Business Analysis, Data Analytics and the wider technologies and delivery disciplines that support modern business change.
+The projects and reusable frameworks allow me to explore practical approaches, test and refine methods, and maintain hands-on familiarity with the technologies and practices that support modern business change.
 
-My approach to CPD is primarily self-directed and driven by a genuine interest in understanding how business, data, processes and technology work together to solve real problems. I use practical projects not simply to learn a tool or concept, but to apply it, challenge my understanding and develop evidence of how it can be used in a realistic delivery context.
-
-This includes critically reviewing and refining my approach as my knowledge and experience develop.
-
-The objective is continuous improvement of my professional practice rather than learning technologies in isolation.
+The focus is on continuous improvement of professional practice and applying established experience in realistic delivery contexts.
 
 <div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
 
 ## Portfolio Content
 
-A CV summarises experience and achievements. This portfolio complements it by showing selected examples of the actual analysis, documentation, solution design and implementation work behind those achievements.
+A CV provides a concise summary of professional experience and achievements. This portfolio complements that summary by presenting selected examples of the analysis, documentation, solution design and implementation work that supports those capabilities.
 
-Published material is intentionally curated for professional evaluation. Full source projects, reusable templates and proprietary framework material are retained privately.
+Published material is intentionally curated for professional evaluation and Continuous Professional Development. Full source projects, reusable templates and proprietary framework material are retained privately.
 
 **Home** · [Projects](/projects/) · [Delivery Frameworks](/delivery-frameworks/)
 
