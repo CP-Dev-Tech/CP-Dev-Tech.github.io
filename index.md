@@ -75,8 +75,9 @@ Published material is intentionally curated for professional evaluation and Cont
 
 **Home** · [Projects](/projects/) · [Delivery Frameworks](/delivery-frameworks/)
 
-
 <div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
 
-© 2026 Carl Patten. All rights reserved.
-
+<p>
+  © 2026 Carl Patten. All rights reserved.<br>
+  <a href="mailto:carlpatten@synapex.co.uk">carlpatten@synapex.co.uk</a>
+</p>
