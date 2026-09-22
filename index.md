@@ -2,10 +2,9 @@
 
 **Home** · [Projects](/projects/) · [Delivery Frameworks](/delivery-frameworks/)
 
+I am a Business Analyst with a developing specialism in Data Analytics, combining business analysis, requirements engineering and process knowledge with practical data and Power BI capability.
 
-This portfolio provides practical evidence of how I approach business problems, analyse requirements and data, and contribute to the design and delivery of technology and analytics solutions.
-
-My core focus is **Business Analysis and Data Analytics**. The projects deliberately include selected work across the wider technology lifecycle where this demonstrates the technical understanding needed to work effectively with developers, data engineers, architects and other specialists—not to claim specialist expertise in every discipline.
+This portfolio provides evidence of how I translate business problems and requirements into structured, governed and validated technology and analytics solutions.
 
 ---
 
