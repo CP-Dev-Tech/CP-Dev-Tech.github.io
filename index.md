@@ -2,11 +2,25 @@
 
 **Home** · [Projects](/projects/) · [Delivery Frameworks](/delivery-frameworks/)
 
+## Featured Project
+
+<a href="/projects/azure-devops-governance-analytics/">
+  <img src="/assets/projects/azure-devops-analytics/croppedImageBanner.png"
+       alt="Azure DevOps Governance Analytics — Executive Governance Overview"
+       width="100%">
+</a>
+
+### Azure DevOps Governance Analytics
+
+An end-to-end analytics case study demonstrating requirements engineering, governance, data preparation, semantic modelling, Power BI development, validation and traceability.
+
+[Explore the case study →](/projects/azure-devops-governance-analytics/)
+
+---
+
 I am a Business Analyst with a developing specialism in Data Analytics, combining business analysis, requirements engineering and process knowledge with practical data and Power BI capability.
 
 This portfolio provides evidence of how I translate business problems and requirements into structured, governed and validated technology and analytics solutions.
-
----
 
 ## Showcase Projects
 
