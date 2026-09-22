@@ -9,3 +9,8 @@ lang: en-GB
 author:
   name: Carl Patten
   url: "https://synapex.co.uk"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
