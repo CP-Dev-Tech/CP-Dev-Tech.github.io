@@ -37,21 +37,6 @@ Each showcase explains the problem, approach, implementation and outcome, with s
 
 Alongside the showcase projects, I develop structured delivery frameworks that demonstrate how analysis, design, implementation, validation and governance can be connected across an end-to-end delivery lifecycle.
 
-### Power BI End-to-End Delivery Framework
-
-A structured analytics delivery framework covering the lifecycle from initial business problem through requirements, data preparation, semantic modelling, report development, validation, deployment and operational support.
-
-The framework includes:
-
-* End-to-end process modelling
-* Detailed BPMN subprocesses
-* Defined delivery activities and decision points
-* Document and artefact structures
-* Task-to-document associations
-* Requirements and validation traceability
-* Delivery governance
-
-Only selected examples are published within this portfolio. Complete reusable templates, editable diagrams and source artefacts are retained privately.
 
 [Explore Delivery Frameworks →](/delivery-frameworks/)
 
