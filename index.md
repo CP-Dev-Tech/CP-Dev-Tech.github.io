@@ -87,7 +87,7 @@ Published material is intentionally curated for professional evaluation and Cont
          alt="Credential 1"
          style="max-height: 48px; width: auto;">
 
-    <!-->
+    <!--
     <img src="/assets/branding/badge-2.png"
          alt="Credential 2"
          style="max-height: 48px; width: auto;">
