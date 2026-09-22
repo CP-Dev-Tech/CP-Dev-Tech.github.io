@@ -20,7 +20,7 @@ An end-to-end analytics case study demonstrating requirements engineering, gover
 
 [Explore the case study →](/projects/azure-devops-governance-analytics/)
 
-<div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
+</br>
 
 ## Showcase Projects
 
@@ -31,7 +31,7 @@ Each showcase explains the problem, approach, implementation and outcome, with s
 
 [Explore Showcase Projects →](/projects/)
 
-<div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
+</br>
 
 ## Delivery Frameworks
 
@@ -39,7 +39,7 @@ Alongside the showcase projects, I develop structured delivery frameworks that d
 
 [Explore Delivery Frameworks →](/delivery-frameworks/)
 
-<div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
+</br>
 
 ## Continuous Professional Development
 
@@ -49,7 +49,7 @@ The projects and reusable frameworks allow me to explore practical approaches, t
 
 The focus is on continuous improvement of professional practice and applying established experience in realistic delivery contexts.
 
-<div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
+</br>
 
 ## Portfolio Content
 
