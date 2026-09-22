@@ -38,7 +38,7 @@ Each showcase explains the problem, approach, implementation and outcome, with s
 Alongside the showcase projects, I develop structured delivery frameworks that demonstrate how analysis, design, implementation, validation and governance can be connected across an end-to-end delivery lifecycle.
 
 <a href="/delivery-frameworks/">
-  <img src="/assets/delivery-frameworks/power-bi-end-to-end-process-public-banner.png"
+  <img src="/assets/delivery-frameworks/power-bi-end-to-end/power-bi-end-to-end-process-public-banner.png"
        alt="Power BI End-to-End Delivery Framework — High Level Process"
        style="width: 100%; height: auto;">
 </a>
