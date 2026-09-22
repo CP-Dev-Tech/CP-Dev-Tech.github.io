@@ -16,7 +16,7 @@ An end-to-end analytics case study demonstrating requirements engineering, gover
 
 [Explore the case study →](/projects/azure-devops-governance-analytics/)
 
----
+<hr style="border: 0; border-top: 1px solid #dfe2e5; margin: 28px 0;">
 
 I am a Business Analyst with a developing specialism in Data Analytics, combining business analysis, requirements engineering and process knowledge with practical data and Power BI capability.
 
