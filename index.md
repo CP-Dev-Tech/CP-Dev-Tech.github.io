@@ -83,17 +83,19 @@ Published material is intentionally curated for professional evaluation and Cont
     gap: 14px;
     flex-wrap: wrap;
   ">
-    <img src="/assets/branding/badge-1.png"
+    <img src="/assets/branding/agileba-practitioner.png"
          alt="Credential 1"
          style="max-height: 48px; width: auto;">
 
-    <img src="/assets/branding/agileba-practitioner.png"
+    <!-->
+    <img src="/assets/branding/badge-2.png"
          alt="Credential 2"
          style="max-height: 48px; width: auto;">
 
     <img src="/assets/branding/badge-3.png"
          alt="Credential 3"
          style="max-height: 48px; width: auto;">
+     -->
   </div>
 
 </div>
