@@ -37,7 +37,6 @@ Each showcase explains the problem, approach, implementation and outcome, with s
 
 Alongside the showcase projects, I develop structured delivery frameworks that demonstrate how analysis, design, implementation, validation and governance can be connected across an end-to-end delivery lifecycle.
 
-
 [Explore Delivery Frameworks →](/delivery-frameworks/)
 
 <div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
