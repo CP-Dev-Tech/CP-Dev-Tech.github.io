@@ -2,6 +2,10 @@
 
 **Home** · [Projects](/projects/) · [Delivery Frameworks](/delivery-frameworks/)
 
+I am a Business Analyst with a developing specialism in Data Analytics, combining business analysis, requirements engineering and process knowledge with practical data and Power BI capability.
+
+This portfolio provides evidence of how I translate business problems and requirements into structured, governed and validated technology and analytics solutions.
+
 ## Featured Project
 
 <a href="/projects/azure-devops-governance-analytics/">
@@ -17,10 +21,6 @@ An end-to-end analytics case study demonstrating requirements engineering, gover
 [Explore the case study →](/projects/azure-devops-governance-analytics/)
 
 <div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
-
-I am a Business Analyst with a developing specialism in Data Analytics, combining business analysis, requirements engineering and process knowledge with practical data and Power BI capability.
-
-This portfolio provides evidence of how I translate business problems and requirements into structured, governed and validated technology and analytics solutions.
 
 ## Showcase Projects
 
