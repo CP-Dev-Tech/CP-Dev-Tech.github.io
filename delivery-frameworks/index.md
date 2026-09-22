@@ -28,7 +28,42 @@ Only selected portfolio evidence is published. Complete reusable process definit
 
 [Home](/) · [Projects](/projects/) · **Delivery Frameworks**
 
----
 
-© 2026 Carl Patten. All rights reserved.
+<div style="
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 1px solid #eaecef;
+">
 
+  <div>
+    © 2026 Carl Patten. All rights reserved.<br>
+    <a href="mailto:carlpatten@synapex.co.uk">carlpatten@synapex.co.uk</a>
+  </div>
+
+  <div style="
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+  ">
+    <img src="/assets/branding/agileba-practitioner.png"
+         alt="Credential 1"
+         style="max-height: 48px; width: auto;">
+
+    <!--
+    <img src="/assets/branding/badge-2.png"
+         alt="Credential 2"
+         style="max-height: 48px; width: auto;">
+
+    <img src="/assets/branding/badge-3.png"
+         alt="Credential 3"
+         style="max-height: 48px; width: auto;">
+     -->
+  </div>
+
+</div>

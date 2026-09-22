@@ -30,7 +30,6 @@ Additional projects will be added as the portfolio develops.
 [Home](/) · **Projects** · [Delivery Frameworks](/delivery-frameworks/)
 
 
-
 <div style="
   display: flex;
   justify-content: space-between;
