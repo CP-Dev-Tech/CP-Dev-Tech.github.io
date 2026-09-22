@@ -31,7 +31,7 @@ Each showcase explains the problem, approach, implementation and outcome, with s
 
 [Explore Showcase Projects →](/projects/)
 
----
+<div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
 
 ## Delivery Frameworks
 
@@ -55,25 +55,8 @@ Only selected examples are published within this portfolio. Complete reusable te
 
 [Explore Delivery Frameworks →](/delivery-frameworks/)
 
----
+<div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
 
-## What the Portfolio Demonstrates
-
-The purpose of this portfolio is not simply to present finished outputs, but to provide evidence of the analysis and delivery thinking behind them.
-
-Across the projects and frameworks, the portfolio demonstrates how I:
-
-* Define and analyse business problems
-* Elicit, structure and document requirements
-* Model business and technology processes
-* Translate requirements into solution behaviour
-* Analyse and prepare data
-* Work with data models and analytical logic
-* Validate solutions against expected outcomes
-* Maintain traceability between requirements, activities and artefacts
-* Work across technical disciplines while recognising specialist ownership boundaries
-
----
 ## Continuous Professional Development
 
 This portfolio also forms part of my ongoing Continuous Professional Development (CPD).
@@ -86,7 +69,7 @@ This includes critically reviewing and refining my approach as my knowledge and 
 
 The objective is continuous improvement of my professional practice rather than learning technologies in isolation.
 
----
+<div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
 
 ## Portfolio Content
 
@@ -97,7 +80,7 @@ Published material is intentionally curated for professional evaluation. Full so
 **Home** · [Projects](/projects/) · [Delivery Frameworks](/delivery-frameworks/)
 
 
----
+<div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
 
 © 2026 Carl Patten. All rights reserved.
 
