@@ -1,3 +1,9 @@
+---
+title: Business Analysis & Data Analytics Projects
+description: >-
+  Selected end-to-end Business Analysis and Data Analytics case studies by Carl Patten MBCS, demonstrating requirements engineering, process analysis, Power BI, data modelling, testing, traceability and delivery governance.
+---
+
 # Projects
 
 [Home](/) · **Projects** · [Delivery Frameworks](/delivery-frameworks/)
