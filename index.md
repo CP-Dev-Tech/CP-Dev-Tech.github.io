@@ -1,14 +1,17 @@
 ---
 title: Business Analysis & Data Analytics Portfolio
 description: >-
-  Business Analysis and Data Analytics portfolio by Carl Patten MBCS, featuring end-to-end case studies in requirements engineering, process analysis, Power BI, data modelling, validation and delivery governance.
+  Carl Patten's portfolio of business analysis, data analytics and technology
+  delivery, featuring end-to-end project showcases and case studies covering
+  requirements engineering, process analysis, Power BI, data modelling,
+  validation and delivery governance.
 ---
 
 # Business Analysis & Data Analytics Portfolio
 
-I am a Business Analyst with a developing specialism in Data Analytics, combining business analysis, requirements engineering and process knowledge with practical data and Power BI capability.
+I’m Carl Patten, a Business Analyst with 15 years of experience across the UK and Australia. My background in retail systems, requirements engineering and process analysis informs the data and technology work I do today.
 
-This portfolio provides evidence of how I translate business problems and requirements into structured, governed and validated technology and analytics solutions.
+This portfolio shows the thinking behind the work: the business problem, the decisions made and the evidence used to validate the outcome. It brings together project showcases, case studies, a delivery framework and notes on the tools I use along the way.
 
 ## Featured Project
 
@@ -48,6 +51,12 @@ Alongside the showcase projects, I develop structured delivery frameworks that d
 </a>
 
 [Explore Delivery Frameworks →](/delivery-frameworks/)
+
+<br>
+
+## Learning & Build Notes
+
+The [Learning & Build Notes](/build-notes/) section introduces how I use GitHub, Markdown, an Excel project template and Python to create, organise and maintain portfolio material. I’ll add more specific examples as the projects develop.
 
 <br>
 
