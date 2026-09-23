@@ -6,8 +6,6 @@ description: >-
 
 # Business Analysis & Data Analytics Portfolio
 
-**Home** · [Projects](/projects/) · [Delivery Frameworks](/delivery-frameworks/)
-
 I am a Business Analyst with a developing specialism in Data Analytics, combining business analysis, requirements engineering and process knowledge with practical data and Power BI capability.
 
 This portfolio provides evidence of how I translate business problems and requirements into structured, governed and validated technology and analytics solutions.
@@ -68,8 +66,6 @@ The focus is on continuous improvement of professional practice and applying est
 A CV provides a concise summary of professional experience and achievements. This portfolio complements that summary by presenting selected examples of the analysis, documentation, solution design and implementation work that supports those capabilities.
 
 Published material is intentionally curated for professional evaluation and Continuous Professional Development. Full source projects, reusable templates and proprietary framework material are retained privately.
-
-**Home** · [Projects](/projects/) · [Delivery Frameworks](/delivery-frameworks/)
 
 <div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
 

@@ -6,8 +6,6 @@ description: >-
 
 # Delivery Frameworks
 
-[Home](/) · [Projects](/projects/) · **Delivery Frameworks**
-
 This section presents structured delivery frameworks that support consistent analysis, design, implementation, validation and governance across technology and analytics projects.
 
 The frameworks demonstrate how I structure and control end-to-end delivery rather than simply presenting isolated project outputs.
@@ -31,9 +29,6 @@ The framework includes:
 ---
 
 Only selected portfolio evidence is published. Complete reusable process definitions, editable diagrams, association data and document templates are retained privately.
-
-[Home](/) · [Projects](/projects/) · **Delivery Frameworks**
-
 
 <div style="
   display: flex;

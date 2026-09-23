@@ -6,8 +6,6 @@ description: >-
 
 # Projects
 
-[Home](/) · **Projects** · [Delivery Frameworks](/delivery-frameworks/)
-
 Selected end-to-end case studies demonstrating practical capability across Business Analysis, Data Analytics and technology delivery.
 
 ## Data & Analytics
@@ -32,9 +30,6 @@ Power BI · Power Query · DAX · Semantic Modelling · Data Analysis · Busines
 ---
 
 Additional projects will be added as the portfolio develops.
-
-[Home](/) · **Projects** · [Delivery Frameworks](/delivery-frameworks/)
-
 
 <div style="
   display: flex;
