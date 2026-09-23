@@ -27,7 +27,7 @@ Power BI · Power Query · DAX · Semantic Modelling · Data Analysis · Busines
 
 [View the full case study →](/projects/azure-devops-governance-analytics/)
 
-<<div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>>
+<div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
 
 Additional projects will be added as the portfolio develops.
 
