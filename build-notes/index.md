@@ -22,3 +22,43 @@ I used Python to help generate some of the guides and questionnaires for that te
 ## What comes next
 
 I’ll add focused notes as I complete projects and have useful examples to share, including what I built, why I chose an approach and what I learned.
+
+<div style="
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 5px solid #eaecef;
+">
+
+  <div>
+    © 2026 Carl Patten. All rights reserved.<br>
+    <a href="mailto:carlpatten@synapex.co.uk">carlpatten@synapex.co.uk</a>
+  </div>
+
+  <div style="
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+  ">
+    <img src="/assets/branding/agileba-practitioner.png"
+         alt="AgileBA Practitioner certification badge"
+         style="max-height: 48px; width: auto;">
+
+    <!--
+    <img src="/assets/branding/badge-2.png"
+         alt="Credential 2"
+         style="max-height: 48px; width: auto;">
+
+    <img src="/assets/branding/badge-3.png"
+         alt="Credential 3"
+         style="max-height: 48px; width: auto;">
+     -->
+  </div>
+
+</div>
+

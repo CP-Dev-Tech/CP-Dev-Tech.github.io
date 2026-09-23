@@ -39,7 +39,7 @@ Additional projects will be added as the portfolio develops.
   flex-wrap: wrap;
   margin-top: 28px;
   padding-top: 20px;
-  border-top: 1px solid #eaecef;
+  border-top: 5px solid #eaecef;
 ">
 
   <div>

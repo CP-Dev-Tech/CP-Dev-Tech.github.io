@@ -17,3 +17,43 @@ I’m currently developing my data analytics capability further alongside that e
 - Document decisions and show evidence of the outcome.
 
 This portfolio includes [case studies and showcases](/projects/) and the [Power BI Delivery Framework](/delivery-frameworks/power-bi-end-to-end/), with room for work beyond analytics as it develops.
+
+<div style="
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 5px solid #eaecef;
+">
+
+  <div>
+    © 2026 Carl Patten. All rights reserved.<br>
+    <a href="mailto:carlpatten@synapex.co.uk">carlpatten@synapex.co.uk</a>
+  </div>
+
+  <div style="
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+  ">
+    <img src="/assets/branding/agileba-practitioner.png"
+         alt="AgileBA Practitioner certification badge"
+         style="max-height: 48px; width: auto;">
+
+    <!--
+    <img src="/assets/branding/badge-2.png"
+         alt="Credential 2"
+         style="max-height: 48px; width: auto;">
+
+    <img src="/assets/branding/badge-3.png"
+         alt="Credential 3"
+         style="max-height: 48px; width: auto;">
+     -->
+  </div>
+
+</div>
+
