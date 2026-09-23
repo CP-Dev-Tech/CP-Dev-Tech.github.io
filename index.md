@@ -1,3 +1,8 @@
+---
+title: Business Analysis & Data Analytics Portfolio
+description: Business Analysis and Data Analytics portfolio by Carl Patten MBCS, featuring end-to-end case studies in requirements engineering, process analysis, Power BI, data modelling, validation and delivery governance.
+---
+
 # Business Analysis & Data Analytics Portfolio
 
 **Home** · [Projects](/projects/) · [Delivery Frameworks](/delivery-frameworks/)
