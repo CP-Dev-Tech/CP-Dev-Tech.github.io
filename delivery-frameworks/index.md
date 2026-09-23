@@ -26,7 +26,7 @@ The framework includes:
 
 [Explore the framework →](/delivery-frameworks/power-bi-end-to-end/)
 
----
+<div style="height: 2px; background-color: #eaecef; margin: 28px 0;"></div>
 
 Only selected portfolio evidence is published. Complete reusable process definitions, editable diagrams, association data and document templates are retained privately.
 
