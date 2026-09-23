@@ -1,3 +1,9 @@
+---
+title: Power BI Delivery Framework | Business Analysis & Analytics
+description: >-
+  Reusable Power BI delivery framework by Carl Patten MBCS covering business analysis, requirements, data preparation, semantic modelling, validation, deployment, traceability and delivery governance.
+---
+
 # Delivery Frameworks
 
 [Home](/) · [Projects](/projects/) · **Delivery Frameworks**
