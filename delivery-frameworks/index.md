@@ -38,7 +38,7 @@ Only selected portfolio evidence is published. Complete reusable process definit
   flex-wrap: wrap;
   margin-top: 28px;
   padding-top: 20px;
-  border-top: 1px solid #eaecef;
+  border-top: 5px solid #eaecef;
 ">
 
   <div>
