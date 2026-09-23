@@ -1,3 +1,9 @@
+---
+title: Azure DevOps Governance Analytics | Power BI Case Study
+description: >-
+  End-to-end Business Analysis and Power BI case study using Azure DevOps data for requirements governance, approval monitoring, data preparation, semantic modelling, validation and delivery traceability.
+---
+
 # Azure DevOps Governance Analytics
 
 [Home](/) · [Projects](/projects/) · **Azure DevOps Governance Analytics**
