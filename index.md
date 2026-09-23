@@ -76,7 +76,7 @@ A CV provides a concise summary of professional experience and achievements. Thi
 
 Published material is intentionally curated for professional evaluation and Continuous Professional Development. Full source projects, reusable templates and proprietary framework material are retained privately.
 
-<div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
+<!--<<div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>>--->
 
 <div style="
   display: flex;
