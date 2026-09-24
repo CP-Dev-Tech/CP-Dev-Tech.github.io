@@ -45,7 +45,7 @@ This portfolio includes [case studies and showcases](/projects/) and the [Power 
          style="max-height: 48px; width: auto;">
 
     <img src="/assets/branding/certified-in-cybersecurity-cc.png"
-         alt="ISC2-CC certification badge"
+         alt="ISC2 Certified in Cybersecurity (CC) certification badge"
          style="max-height: 48px; width: auto;">
 
     <!--
