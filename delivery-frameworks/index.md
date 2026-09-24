@@ -56,11 +56,11 @@ Only selected portfolio evidence is published. Complete reusable process definit
          alt="AgileBA Practitioner certification badge"
          style="max-height: 48px; width: auto;">
 
-    <!--
-    <img src="/assets/branding/badge-2.png"
-         alt="Credential 2"
+    <img src="/assets/branding/certified-in-cybersecurity-cc.png"
+         alt="ISC2 Certified in Cybersecurity (CC) certification badge"
          style="max-height: 48px; width: auto;">
 
+    <!--
     <img src="/assets/branding/badge-3.png"
          alt="Credential 3"
          style="max-height: 48px; width: auto;">
