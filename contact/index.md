@@ -52,7 +52,7 @@ If you would like to discuss the work shown in this portfolio or connect profess
      ">
     <img src="/assets/branding/github.png"
          alt="Carl Patten on GitHub"
-         style="height: 30px; width: auto;">
+         style="height: 34px; width: auto;">
     <span>GitHub</span>
   </a>
 
