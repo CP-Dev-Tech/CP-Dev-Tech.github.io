@@ -5,9 +5,58 @@ description: Contact Carl Patten about business analysis, data analytics and tec
 
 # Contact
 
-If my work is relevant to a challenge you’re facing and you think I can help, I’d welcome a conversation. You can reach me at [carlpatten@synapex.co.uk](mailto:carlpatten@synapex.co.uk).
+If you would like to discuss the work shown in this portfolio or connect professionally, you can contact me using the links below.
 
-You can connect with me on <a href="https://www.linkedin.com/in/carlpatten" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
+<div style="
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin: 24px 0 36px 0;
+">
+
+  <a href="mailto:carlpatten@synapex.co.uk"
+     style="
+       display: flex;
+       align-items: center;
+       gap: 8px;
+       text-decoration: none;
+     ">
+    <span style="font-size: 24px;">✉</span>
+    <span>carlpatten@synapex.co.uk</span>
+  </a>
+
+  <a href="https://www.linkedin.com/in/carlpatten"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="
+       display: flex;
+       align-items: center;
+       gap: 8px;
+       text-decoration: none;
+     ">
+    <img src="/assets/branding/linkedin.png"
+         alt="Carl Patten on LinkedIn"
+         style="height: 30px; width: auto;">
+    <span>LinkedIn</span>
+  </a>
+
+  <a href="https://github.com/CP-Dev-Tech"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="
+       display: flex;
+       align-items: center;
+       gap: 8px;
+       text-decoration: none;
+     ">
+    <img src="/assets/branding/github.png"
+         alt="Carl Patten on GitHub"
+         style="height: 30px; width: auto;">
+    <span>GitHub</span>
+  </a>
+
+</div>
 
 <div style="
   display: flex;
@@ -17,7 +66,7 @@ You can connect with me on <a href="https://www.linkedin.com/in/carlpatten" targ
   flex-wrap: wrap;
   margin-top: 28px;
   padding-top: 20px;
-  border-top: 5px solid #eaecef;
+  border-top: 1px solid #eaecef;
 ">
 
   <div>
@@ -43,7 +92,7 @@ You can connect with me on <a href="https://www.linkedin.com/in/carlpatten" targ
     <img src="/assets/branding/badge-3.png"
          alt="Credential 3"
          style="max-height: 48px; width: auto;">
-     -->
+    -->
   </div>
 
 </div>
