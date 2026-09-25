@@ -49,8 +49,6 @@ description: >-
 
 ## Featured Project
 
-## Featured Project
-
 <a href="/projects/azure-devops-governance-analytics/">
   <img src="/assets/projects/azure-devops-analytics/croppedImageBanner.png"
        alt="Azure DevOps Governance Analytics — Executive Governance Overview"
