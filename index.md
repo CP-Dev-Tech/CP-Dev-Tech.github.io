@@ -35,7 +35,7 @@ description: >-
   <div style="
     flex: 0 0 auto;
   ">
-    <img src="/assets/branding/c-patten.png"
+    <img src="/assets/branding/c-patten.jpg"
          alt="Carl Patten MBCS"
          style="
            width: 150px;
