@@ -23,11 +23,12 @@ description: >-
   ">
 
     <p>
-      I’m Carl Patten, a Business Analyst with 15 years of experience across the UK and Australia. My background in retail systems, requirements    engineering and process analysis informs the data and technology work I do today.
+      I’m Carl Patten, a Business Analyst with 15 years of experience across the UK and Australia. My background in retail systems, requirements engineering and process analysis informs the data and technology work I do today.
     </p>
 
     <p>
       This portfolio shows the thinking behind the work: the business problem, the decisions made and the evidence used to validate the outcome. It brings together project showcases, case studies, a delivery framework and notes on the tools I use along the way.
+    </p>
 
   </div>
 
@@ -45,6 +46,8 @@ description: >-
   </div>
 
 </div>
+
+## Featured Project
 
 ## Featured Project
 
