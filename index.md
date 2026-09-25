@@ -9,9 +9,42 @@ description: >-
 
 # Business Analysis & Data Analytics Portfolio
 
-I’m Carl Patten, a Business Analyst with 15 years of experience across the UK and Australia. My background in retail systems, requirements engineering and process analysis informs the data and technology work I do today.
+<div style="
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  flex-wrap: wrap;
+  margin: 20px 0 30px 0;
+">
 
-This portfolio shows the thinking behind the work: the business problem, the decisions made and the evidence used to validate the outcome. It brings together project showcases, case studies, a delivery framework and notes on the tools I use along the way.
+  <div style="
+    flex: 1 1 500px;
+    min-width: 280px;
+  ">
+
+    <p>
+      I’m Carl Patten, a Business Analyst with 15 years of experience across the UK and Australia. My background in retail systems, requirements    engineering and process analysis informs the data and technology work I do today.
+    </p>
+
+    <p>
+      This portfolio shows the thinking behind the work: the business problem, the decisions made and the evidence used to validate the outcome. It brings together project showcases, case studies, a delivery framework and notes on the tools I use along the way.
+
+  </div>
+
+  <div style="
+    flex: 0 0 auto;
+  ">
+    <img src="/assets/branding/c-patten.png"
+         alt="Carl Patten MBCS"
+         style="
+           width: 150px;
+           height: 150px;
+           object-fit: cover;
+           border-radius: 8px;
+         ">
+  </div>
+
+</div>
 
 ## Featured Project
 
