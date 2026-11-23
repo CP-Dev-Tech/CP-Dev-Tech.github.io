@@ -44,7 +44,7 @@ My current interests include strengthening the connection between business requi
 
 I'm continuing to develop practical examples involving business analysis, delivery governance and data analytics, with an emphasis on solutions that address identifiable problems and provide demonstrable value.
 
-You can explore the work through my project case studies and [Learning & Build Notes.](build-notes/index.md)
+You can explore the work through my project case studies and [Learning & Build Notes.](/build-notes/)
 
 <div style="
   display: flex;
