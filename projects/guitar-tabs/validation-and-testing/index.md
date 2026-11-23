@@ -28,7 +28,7 @@ The validation focus was to establish that:
 ## Test Environments and Evidence
 
 | Area | Tested approach |
-|---|---|
+| --- | --- |
 | Local application | Node.js / Express server and browser-based song and chord-reference viewers |
 | Notation engine | Custom alphaTab **1.9.0** renderer; version deliberately pinned |
 | Test material | Layout regression file, Two Voice regression test, techniques test and working song arrangements |
@@ -84,16 +84,9 @@ The dedicated **Two Voice Test** was used to assess the correction. The solution
 
 **Outcome:** The observed lower-staff clipping issue was resolved in the tested configurations, with a repeatable regression example retained for future layout changes.
 
-<!-- FIGURE 3 — Two Voice regression evidence
-     Suggested filename: assets/projects/guitar-tabs/validation-figure-03-two-voice-clipping.png
-     Earlier screenshots from 18 and 21 November show the Two Voice Test.
-     Use a confirmed defective/corrected pair only if the exact states can be established.
-     Otherwise show the corrected regression score with a factual caption.
-
 ![Figure 3 — Two Voice regression score](/assets/projects/guitar-tabs/validation-figure-03-two-voice-clipping.png)
 
 *Figure 3 — The dedicated Two Voice regression score used when validating the bottom-staff clipping fix.*
--->
 
 ## Defect Investigation 3 — Printing and Pagination
 
@@ -102,7 +95,7 @@ The final PDF is a separate output that needs checking even when the browser pre
 Chord-reference printing uses a **different** HTML/CSS-based workflow. Testing documented a specific pagination defect: a 16-chord collection rendered as 12 + 4 diagrams but initially produced two additional blank pages. A later version corrected the output to **two A4 pages**, with no extras. A six-chord reference sheet also printed on one page.
 
 | Test | Recorded result |
-|---|---|
+| --- | --- |
 | Song PDF with chord/layout corrections | *Zombie* and *Behind Blue Eyes* print outputs visually checked |
 | Song title and page numbers | Centred metadata header and custom page numbering confirmed in Chrome output |
 | Chord-reference sheet: 6 diagrams | One A4 page |
@@ -111,15 +104,9 @@ Chord-reference printing uses a **different** HTML/CSS-based workflow. Testing d
 
 **Outcome:** PDF validation was treated as an independent acceptance check, not inferred from successful rendering in the browser.
 
-<!-- FIGURE 4 — A4 PDF pagination evidence
-     Suggested filename: assets/projects/guitar-tabs/validation-figure-04-print-pagination.png
-     Prefer the original chord-reference regression sheet showing 12 + 4 across two pages,
-     or a non-copyrighted test-score PDF demonstrating the header, legend and pagination.
-
 ![Figure 4 — Validated A4 print output](/assets/projects/guitar-tabs/validation-figure-04-print-pagination.png)
 
 *Figure 4 — Print verification demonstrating predictable A4 pagination and readable output.*
--->
 
 ## Functional Verification — Finger Colouring and File Discovery
 
@@ -128,6 +115,24 @@ The application uses a shared fretting-hand colour convention across song previe
 File discovery was also checked after moving AlphaTex sources into category folders. A full song loaded and printed from `full-song-versions`; the techniques test worked from `shortened-song-versions`; the chord viewer displayed only items in `chord-diagrams`.
 
 **Scope boundary:** The successful song-header chord colouring does not establish equivalent per-finger dot colouring in the separate chord-reference print workflow.
+
+## Functional Verification - Chord-reference finger colouring
+
+Visual testing confirmed that the standalone chord-reference viewer correctly displays colour-coded finger-position markers.
+
+The six-chord reference collection (C, D, E, G, Am and Em)
+was inspected to confirm:
+
+- Finger-position dots display the assigned finger colours.
+- The colours correspond to the displayed fingering legend.
+- All six chord diagrams render correctly without visible
+  positioning or alignment defects.
+
+This confirms the delivered chord-reference finger-colouring capability in the browser viewer.
+
+![Figure 5 — Validated Chord Diagram](/assets/projects/guitar-tabs/figure-06-coloured-chord-reference.png)
+
+*Figure 5 — Verification demonstrating finger-coloured chord reference diagrams.*
 
 ## AlphaTex Beat Checker — Timing Diagnostics
 
@@ -143,21 +148,14 @@ A recorded check of *My Immortal* showed measures **6, 7, 9 and 10** containing 
 
 The checker supports **rhythmic completeness**, not musical accuracy. It cannot establish that notes, fret positions, fingerings or the interpretation match a reference recording.
 
-<!-- FIGURE 5 — Beat checker output
-     Suggested filename: assets/projects/guitar-tabs/validation-figure-05-beat-checker.png
-     Run the checker against an ORIGINAL purpose-built AlphaTex test file showing
-     both an OK measure and an intentionally overfull measure, with beat breakdown.
-     Avoid publishing transcriptions of commercial songs.
+![Figure 6 — AlphaTex beat checker diagnostic output](/assets/projects/guitar-tabs/figure-05-beat-checker-diagnostics.png)
 
-![Figure 5 — AlphaTex beat checker diagnostic output](/assets/projects/guitar-tabs/validation-figure-05-beat-checker.png)
-
-*Figure 5 — Measure-level and beat-by-beat diagnostics identifying source timing errors for review.*
--->
+*Figure 6 — Measure-level and beat-by-beat diagnostics identifying source timing errors for review.*
 
 ## Regression Test Summary
 
 | Area | Evidence-supported outcome | Limitation |
-|---|---|---|
+| --- | --- | --- |
 | Custom chord renderer | Horizontal-spacing behaviour reviewed in the viewer and A4 print preview | Different scales and unusual diagrams not exhaustively tested |
 | Universal chord alignment | 24-measure regression file, *Zombie* and *Behind Blue Eyes* reviewed | Depends on alphaTab 1.9.0 SVG structure |
 | Two-voice rendering | Dedicated regression and existing tabs passed after 90px padding correction | Recheck after future layout or pagination changes |

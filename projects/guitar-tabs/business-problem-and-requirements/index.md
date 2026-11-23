@@ -20,7 +20,6 @@ The objective was not to develop a commercial music application. It was to creat
 
 The project also provided an opportunity to investigate whether AI-assisted development could deliver a working bespoke application without requiring the project owner to possess advanced software development expertise.
 
-
 ## Guitar Tablature Authoring Workflow
 
 The following BPMN process illustrates the workflow used to create, review and print guitar tablature using the GuitarTabs application.
@@ -49,37 +48,19 @@ The problem had several dimensions:
 
 These needs formed the basis for evaluating the proposed solution and its subsequent iterations.
 
-
-## The Problem — and the Intended Improvement
+## The Problem - and the Intended Improvement
 
 The original requirement was to make guitar tablature easier to interpret, annotate and print for independent practice.
 
 The comparison below illustrates the difference between conventional tablature and the enhanced notation provided by GuitarTabs.
 
-### Before — Conventional Guitar Tablature
-
-<!-- TODO: Add screenshot of conventional black-and-white guitar TAB.
-     Use an original four-measure example without finger colouring.
-
-     Save image to:
-     assets/projects/guitar-tabs/conventional-tablature.png
--->
+### Before - Conventional Guitar Tablature
 
 ![Conventional guitar tablature — without finger colouring](/assets/projects/guitar-tabs/conventional-tablature.png)
 
 Conventional tablature communicates fret positions and rhythm but may require additional annotation to identify the intended fretting-hand fingers. Depending on the source, editing and print formatting may also be limited.
 
-### After — GuitarTabs
-
-<!-- TODO: Add screenshot of the same four-measure example
-     rendered in GuitarTabs.
-
-     Include coloured fret numbers, chord diagrams and the finger legend
-     where practical.
-
-     Save image to:
-     assets/projects/guitar-tabs/guitartabs-enhanced-notation.png
--->
+### After - GuitarTabs
 
 ![GuitarTabs — enhanced tablature with colour-coded fingering](/assets/projects/guitar-tabs/guitartabs-enhanced-notation.png)
 
@@ -89,11 +70,10 @@ GuitarTabs adds consistent finger-colour identification while retaining musical 
 
 The intended improvement was not to replace standard guitar notation, but to supplement it with visual information that supports learning and independent practice.
 
-
 ## Objectives
 
 | ID | Objective | Intended outcome |
-|---|---|---|
+| --- | --- | --- |
 | OBJ-01 | Enable editable guitar tablature authoring | Maintain music as reusable, text-based source files |
 | OBJ-02 | Improve visibility of fingering | Identify fretting-hand finger assignments through colour |
 | OBJ-03 | Support practical guitar notation | Represent rhythm, chords, lyrics and common playing techniques |
@@ -108,7 +88,7 @@ The intended improvement was not to replace standard guitar notation, but to sup
 The following requirements consolidate the capabilities established during development.
 
 | ID | Requirement | Current outcome |
-|---|---|---|
+| --- | --- | --- |
 | FR-01 | Author and edit guitar tablature using a text-based format | Delivered — AlphaTex files edited in VS Code |
 | FR-02 | Display fretting-hand finger assignments using consistent colours | Delivered — finger-coloured fret numerals and a reusable legend |
 | FR-03 | Support musical durations, chords, lyrics and playing techniques | Delivered for supported AlphaTex notation |
@@ -119,13 +99,14 @@ The following requirements consolidate the capabilities established during devel
 | FR-08 | Produce standalone printable chord-reference sheets | Delivered — dedicated chord viewer and 12-diagram-per-page printing |
 | FR-09 | Support identification of rhythmic errors in authored music | Delivered — command-line beat checker with measure and beat-level reporting |
 | FR-10 | Support finger-coloured chord diagrams in song headers | Delivered — verified against the 16 header chords in *Behind Blue Eyes* |
+| FR-11 | Support finger-coloured chord reference diagrams seperate from song tabs | Delivered - Verified using a six-chord reference collection containing C, D, E, G Am and Em |
 
 The current application meets these requirements within the tested rendering configurations. Delivery does not imply that every possible musical score or notation variation has been validated.
 
 ## Non-Functional Requirements & Constraints
 
 | Area | Requirement or constraint | Approach |
-|---|---|---|
+| --- | --- | --- |
 | Cost | No paid software, subscription or hosting dependency for the application | Local runtime and freely available development components |
 | Usability | TAB should be readable in the browser and when printed | Colour conventions, fingering legend and controlled score layout |
 | Maintainability | Avoid unnecessary duplication and song-specific fixes | Shared configuration and reusable alignment functions |
@@ -143,7 +124,7 @@ Development followed an iterative approach. Requirements were assessed against t
 
 ### Delivered Scope
 
-The application currently includes text-based notation authoring, finger-coloured fret numbers, chord diagrams, song and chord-reference viewers, library categorisation, print/PDF functionality, custom chord-spacing corrections and a beat-checking utility.
+The application currently includes text-based notation authoring, finger-coloured fret numbers, finger-coloured chord diagrams, song and chord-reference viewers, library categorisation, print/PDF functionality, custom chord-spacing corrections and a beat-checking utility.
 
 Technical improvements were incorporated where defects affected the usability or reliability of these capabilities.
 
@@ -152,8 +133,6 @@ Technical improvements were incorporated where defects affected the usability or
 **VS Code AlphaTex validation:** Comprehensive live syntax diagnostics were investigated but remain deferred. Any future implementation must be practical to maintain and must not destabilise the pinned rendering environment.
 
 **Lyrics positioning refinements:** Further changes are deferred unless a reproducible issue is identified in an actual score.
-
-**Standalone chord-reference finger colouring:** Automatic per-finger colouring of chord dots in the separate chord-reference sheets has not been implemented. This is distinct from the delivered colouring of song-header chord diagrams.
 
 ### Removed from Scope
 

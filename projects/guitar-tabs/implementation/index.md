@@ -46,22 +46,38 @@ A core requirement was to distinguish fretting-hand finger assignments without r
 
 Finger colours and labels are maintained centrally in `src/finger-config.js`, so the viewer and print flows use a consistent convention.
 
+### Finger-Coloured Chord Reference Diagrams
+
+GuitarTabs includes a dedicated chord-reference viewer that
+displays individual chord diagrams with colour-coded fingering
+positions.
+
+The implementation supports:
+
+- Individual chord diagrams with named chord labels.
+- Coloured finger-position markers corresponding to the
+  fretting-hand finger assignments.
+- A consistent finger-colour legend.
+- Automatic discovery of chord-reference collections.
+- A dedicated A4 printing workflow supporting up to
+  12 chord diagrams per page.
+
+The feature was visually verified using a six-chord
+reference collection containing C, D, E, G, Am and Em.
+
+![GuitarTabs finger-coloured chord reference diagrams](/assets/projects/guitar-tabs/figure-06-coloured-chord-reference.png)
+
+*Figure 6 — Standalone chord-reference viewer showing six finger-coloured chord diagrams and the fingering legend.*
+
 ### Finger-coloured song-header chords
 
 The project later extended finger colouring to **chord diagrams displayed in song headers**. The implementation was verified against all **16 header chords** in the *Behind Blue Eyes* arrangement, including the viewer, print preview and saved PDF. This enhancement was recorded in Git commit `e79a710`.
 
-**Scope distinction:** Finger-coloured chord dots in song headers are delivered; equivalent automatic per-finger colouring for the **separate chord-reference sheet** is not established as delivered.
-
-<!-- FIGURE 2 — Finger-coloured notation and chord diagrams
-     INSERT IMAGE HERE when the original screenshot is ready.
-     Suggested filename: assets/projects/guitar-tabs/figure-02-finger-colours-chords.png
-     Capture an original progression showing colour-coded fret numerals, the finger legend,
-     and finger-coloured song-header chord diagrams.
+Finger coloured chord diagrams were also delivered and are accessed via the chord viewer
 
 ![Figure 2 — Finger-coloured tablature and chord diagrams](/assets/projects/guitar-tabs/figure-02-finger-colours-chords.png)
 
 *Figure 2 — Colour-coded fretting-hand assignments, fingering legend and song-header chord diagrams.*
--->
 
 ## 3. Custom Rendering and Universal Chord Alignment
 
@@ -84,24 +100,20 @@ The customised build is retained as `src/alphaTab-custom-1.9.0.js`. The underlyi
 
 The significant outcome was not merely that the diagrams aligned in one song. It was that a **general correction replaced a growing set of song-specific fixes**.
 
-<!-- FIGURE 3 — Chord alignment before and after
-     INSERT IMAGE HERE when genuine before/after evidence is available.
-     Suggested filename: assets/projects/guitar-tabs/figure-03-chord-alignment-before-after.png
-     Use an original regression score. Label the two captures 'Before' and 'After'.
-     If no original 'Before' evidence remains, replace this with a labelled
-     illustrative comparison; do not claim it is a historical test screenshot.
+![Figure 3 — Chord diagram spacing and alignment before and after correction](/assets/projects/guitar-tabs/validation-figure-02-chord-alignment-before.png)
 
-![Figure 3 — Chord diagram spacing and alignment before and after correction](/assets/projects/guitar-tabs/figure-03-chord-alignment-before-after.png)
+*Figure 2 — Comparison of the in-line chord-diagram rendering issue and the tested universal alignment correction (before).*
 
-*Figure 3 — Comparison of the chord-diagram rendering issue and the tested universal alignment correction.*
--->
+![Figure 3 — Chord diagram spacing and alignment before and after correction](/assets/projects/guitar-tabs/validation-figure-03-chord-alignment-after.png)
+
+*Figure 3 — Comparison of the in-line chord-diagram rendering issue and the tested universal alignment correction (after).*
 
 ## 4. Viewer, Printing and Chord References
 
 GuitarTabs provides two distinct output workflows because complete songs and reference sheets require different layouts.
 
 | Workflow | Implemented method | Output |
-|---|---|---|
+| --- | --- | --- |
 | **Song viewer and printer** | Browser rendering and native alphaTab `api.print()` | A4 TAB score with finger-colour key, chords, annotations, centred song title and page numbering |
 | **Chord-reference viewer and printer** | Extracted alphaTab chord graphics arranged using HTML/CSS and `window.print()` | A4 sheets with up to **12 chord diagrams per page**, arranged 3 × 4 |
 
@@ -113,16 +125,9 @@ A later defect caused content extending beneath the TAB staff to be clipped, par
 
 The fix was verified against existing scores and a dedicated **Two Voice** regression case in the viewer, print preview and saved PDF. It is recorded in commit `6dc60a6`.
 
-<!-- FIGURE 4 — Completed A4 song PDF
-     INSERT IMAGE HERE when the demonstration PDF screenshot is ready.
-     Suggested filename: assets/projects/guitar-tabs/figure-04-a4-song-pdf.png
-     Capture an original score showing centred title, page numbering, finger legend,
-     and, if practical, notation with two voices.
-
-![Figure 4 — GuitarTabs A4 printable score](/assets/projects/guitar-tabs/figure-04-a4-song-pdf.png)
+![Figure 4 — GuitarTabs A4 printable score](/assets/projects/guitar-tabs/figure-04-a4-pdf.png)
 
 *Figure 4 — Completed A4 score showing the printable notation, fingering legend and page presentation.*
--->
 
 ## 5. Beat Checker and Timing Diagnostics
 
@@ -134,23 +139,16 @@ For example, a recorded *My Immortal* check flagged measures **6, 7, 9 and 10** 
 
 The utility does not verify pitch, fret selection, finger choice or whether a transcription matches a recording. Musical review remains necessary.
 
-<!-- FIGURE 5 — Beat checker diagnostics (optional; may move to Validation & Testing)
-     INSERT IMAGE HERE if this evidence remains on the Implementation page.
-     Suggested filename: assets/projects/guitar-tabs/figure-05-beat-checker-diagnostics.png
-     Use a new original demonstration score containing an intentionally overfilled bar
-     and corrected timing. Label the output as a controlled example.
-
 ![Figure 5 — Beat checker measure and beat-by-beat diagnostics](/assets/projects/guitar-tabs/figure-05-beat-checker-diagnostics.png)
 
 *Figure 5 — Command-line beat checker identifying a duration error in a controlled test example.*
--->
 
 ## 6. Iterative Defect Investigation
 
 Implementation involved a repeated cycle: reproduce a problem, inspect the result, evaluate an AI-proposed change, run the application again and compare the output against expected behaviour.
 
 | Observed issue | Response | Verification evidence |
-|---|---|---|
+| --- | --- | --- |
 | Chord diagrams overlap or lack horizontal clearance | Customised chord effect in alphaTab 1.9.0 | Layout regression score and full-song viewer/print checks |
 | Chord diagrams or measure numbers shift vertically | Universal alignment and measure-number corrections | Inspected song systems and A4 print preview |
 | Layout fixes work in preview but not final PDF | Apply necessary corrections in the native print document | Viewer, preview and PDF comparisons |

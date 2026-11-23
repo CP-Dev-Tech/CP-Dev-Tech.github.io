@@ -20,17 +20,6 @@ The implementation was developed with substantial assistance from ChatGPT. My re
 
 ## High-Level Solution Architecture
 
-<!-- TODO: Add a clean architecture diagram exported as PNG or SVG.
-     Suggested filename: assets/projects/guitar-tabs/guitartabs-solution-architecture.png
-     Diagram should show the local VS Code / AlphaTex authoring layer,
-     Express on 127.0.0.1:8080, the song and chord-reference browser flows,
-     the custom alphaTab renderer, shared layout/colour helpers, PDF outputs,
-     and the private GitHub repository as source control rather than hosting.
-
-     When ready, replace this comment with:
-     ![GuitarTabs solution architecture](/assets/projects/guitar-tabs/guitartabs-solution-architecture.png)
--->
-
 ![GuitarTabs solution architecture](/assets/projects/guitar-tabs/guitartabs-solution-architecture.png)
 
 *Figure 1 — Component flow. Source files remain authoritative; PDFs are derived outputs.*
@@ -38,7 +27,7 @@ The implementation was developed with substantial assistance from ChatGPT. My re
 ## Architectural Components
 
 | Component | Responsibility |
-|---|---|
+| --- | --- |
 | **AlphaTex (`tabs/**/*.alphatex`)** | Editable source of songs and chord-reference definitions, including notes, durations, technique annotations and fingering assignments. |
 | **VS Code** | Text editing, local testing and project maintenance. |
 | **`server.js` (Node.js/Express)** | Serves the application locally and exposes `GET /api/tabs` for recursive file discovery. |
@@ -64,7 +53,7 @@ The local Express server discovers `.alphatex` files recursively. Its `GET /api/
 
 After a score is selected, the song viewer loads the AlphaTex source and passes it to alphaTab for rendering. Finger assignments in the score are used to style fret numerals and generate a consistent colour legend. Open strings are represented separately rather than assigned a fretting-hand finger colour.
 
-The rendering configuration is shared between the song viewer and song printer to reduce layout differences. Song-header chord diagrams also support finger-coloured dots; this was verified with 16 chords in the *Behind Blue Eyes* arrangement. **The separate chord-reference sheets do not yet offer equivalent automatic per-finger dot colouring.**
+The rendering configuration is shared between the song viewer and song printer to reduce layout differences. Song-header chord diagrams also support finger-coloured dots; this was verified with 16 chords in the *Behind Blue Eyes* arrangement. The separate chord-reference sheets offer equivalent automatic per-finger dot colouring.
 
 ### 3. Custom chord spacing and alignment
 
@@ -92,7 +81,7 @@ This tool helps identify rhythm inconsistencies but **does not prove that the tr
 ## Key Architecture Decisions
 
 | Decision | Rationale and trade-off |
-|---|---|
+| --- | --- |
 | **Local browser application** | Meets the personal-use and zero-hosting-cost requirements; requires a local Node.js server while in use. |
 | **AlphaTex as source of truth** | Human-editable and suitable for Git; authoring still requires learning notation syntax. |
 | **Express file catalogue rather than database** | Simplifies deployment and maintenance for a small personal library; not designed for multi-user data management. |
@@ -110,7 +99,6 @@ There are also known technical constraints:
 
 - The layout adjustments rely on alphaTab **1.9.0** and its generated SVG structure; renderer upgrades require controlled regression testing.
 - The universal diagram correction uses detected TAB staff geometry and will not necessarily handle every unusual score.
-- Standalone chord-reference sheets do not yet implement automatic per-finger dot colouring.
 - The live VS Code AlphaTex language-server validation enhancement remains deferred.
 - The PDF and browser output are derived artefacts; the editable AlphaTex files remain authoritative.
 

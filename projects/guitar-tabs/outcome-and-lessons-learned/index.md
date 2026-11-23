@@ -23,7 +23,7 @@ The outcome is an application that I use to prepare tablature in AlphaTex, view 
 The following table relates the delivered solution to the objectives documented in the [Business Problem & Requirements](../business-problem-and-requirements/) case study. The objective identifiers are retrospective portfolio labels, not a claim of a formally approved project baseline.
 
 | Objective | Observed outcome | Assessment |
-|---|---|---|
+| --- | --- | --- |
 | **OBJ-01 — Editable notation** | Musical source is retained in `.alphatex` files, edited in VS Code and rendered when selected. | Delivered |
 | **OBJ-02 — Visible fingering** | Fretting-hand finger colours and a reusable legend appear in the viewer and song print output. | Delivered for tested notation |
 | **OBJ-03 — Practical guitar notation** | Rhythm, chords, lyrics and supported techniques are represented; multi-voice rendering has a dedicated regression test. | Delivered within tested support |
@@ -50,7 +50,7 @@ These improvements illustrate how requirements and acceptance criteria can evolv
 ## Key Delivery Decisions
 
 | Decision | Reasoning and result |
-|---|---|
+| --- | --- |
 | **Use AlphaTex as editable source** | Retains control of notation independently of a PDF or proprietary document. |
 | **Build around alphaTab rather than create a music engraving engine** | Reuses established notation functionality while focusing development on the required visual and print behaviour. |
 | **Maintain two distinct print workflows** | Full-song native printing and standalone chord-reference sheets have different layout needs. |
@@ -60,6 +60,18 @@ These improvements illustrate how requirements and acceptance criteria can evolv
 | **Defer live VS Code AlphaTex validation** | No acceptable low-maintenance implementation was established within the pinned environment. |
 
 A consistent principle was to **avoid adding complexity without a demonstrable user benefit**.
+
+## An Iterative, Evidence-Led Delivery Approach
+
+The project followed an iterative approach in which requirements,
+AI-assisted implementation, testing and improvement informed
+successive development decisions.
+
+![GuitarTabs AI-assisted delivery learning cycle](/assets/projects/guitar-tabs/guitartabs-delivery-learning-cycle.png)
+
+*Figure 1 — GuitarTabs delivery learning cycle, illustrating human
+solution ownership, AI-assisted implementation and evidence-based
+acceptance.*
 
 ## Lessons Learned
 
@@ -104,7 +116,8 @@ GuitarTabs has been validated in its documented local environment, not across ev
 
 - The custom renderer and layout corrections depend on **alphaTab 1.9.0** and the SVG structures used by that version. An upgrade would need separate investigation and regression testing.
 - The universal chord alignment has tested clearance and adjustment limits; unusual diagrams or different layouts may still require review.
-- **Song-header** chord dots support finger colouring; automatic per-finger dot colouring in **standalone chord-reference sheets** has not been established.
+- **Song-header** chord dots support finger colouring;
+- **standalone chord-reference sheets** supports finger colouring.
 - The beat checker detects duration-related issues; it does **not** verify pitch, fingering or transcription accuracy against a recording.
 - Live AlphaTex syntax diagnostics in VS Code remain deferred. Additional lyrics-layout changes will be considered only if a reproducible issue is found.
 - The local Express application is designed for personal use, **not internet-facing or multi-user deployment**.

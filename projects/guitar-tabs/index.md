@@ -34,7 +34,7 @@ The application was developed iteratively, with changes tested in the local envi
 
 ## Solution Preview
 
-*Application screenshot to be added during final showcase preparation.*
+![Solution Overview](/assets/projects/guitar-tabs/guitar-tabs-overview.png)
 
 The completed application provides a browser-based guitar tablature viewer, chord-reference library, finger-coloured notation and printable scores.
 
