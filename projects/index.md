@@ -29,7 +29,30 @@ Power BI · Power Query · DAX · Semantic Modelling · Data Analysis · Busines
 
 <div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
 
-Additional projects will be added as the portfolio develops.
+
+## Software Development & AI-Assisted Delivery
+
+### GuitarTabs — Custom Guitar Tablature Application
+
+<img src="/assets/projects/guitar-tabs/figure-10-alphatex-authoring-library.png"
+     alt="GuitarTabs application showing AlphaTex authoring in VS Code"
+     width="380">
+
+_AlphaTex source and rendered two-voice guitar tablature with colour-coded fingering_
+
+A bespoke guitar tablature authoring, visualisation and printing application developed through AI-assisted software development, requirements-led solution design and structured validation.
+
+**Business problem:** Existing guitar tablature tools did not provide the required combination of editable notation, colour-coded fingering, chord diagrams and reliable A4 printing within a zero-cost personal solution.
+
+**Solution:** A locally hosted application using Node.js, Express, AlphaTex and a customised alphaTab renderer. The solution supports editable guitar notation, finger-coloured fret numbers and chord diagrams, automated beat validation and formatted PDF output.
+
+**Development approach:** Requirements, solution decisions, testing and acceptance were directed by the project owner, with ChatGPT providing substantial code generation, technical implementation and troubleshooting support.
+
+**Skills demonstrated:** Requirements Engineering · Solution Design · AI-Assisted Development · Technical Problem-Solving · Defect Investigation · Validation & Testing · Regression Testing · Git
+
+[View the full case study →](/projects/guitar-tabs/)
+
+<div style="height: 1px; background-color: #eaecef; margin: 28px 0;"></div>
 
 <div style="
   display: flex;
