@@ -16,7 +16,7 @@ The project is presented as a practical case study demonstrating how **business 
 
 ## Solution Preview
 
-[![Dashboard Showcase](../../assets/projects/azure-devops-analytics/dashboard-showcase.png)](/projects/azure-devops-governance-analytics/business-problem-and-requirements/)
+[![Dashboard Showcase](../../assets/projects/azure-devops-analytics/dashboard-showcase.webp)](/projects/azure-devops-governance-analytics/business-problem-and-requirements/)
 
 <p style="color:#6B7280; font-style:italic;">
 Click the dashboard showcase to explore the project from Business Problem & Requirements.
