@@ -1,10 +1,9 @@
 ---
-title: Business Analysis & Data Analytics Portfolio
+title: Synapex | Carl Patten MBCS — Business Analysis & Data Analytics Portfolio
 description: >-
-  Carl Patten's portfolio of business analysis, data analytics and technology
-  delivery, featuring end-to-end project showcases and case studies covering
-  requirements engineering, process analysis, Power BI, data modelling,
-  validation and delivery governance.
+  Synapex is the professional portfolio of Carl Patten MBCS,
+  featuring Business Analysis, Power BI, delivery governance,
+  requirements engineering and practical project case studies.
 ---
 
 # Business Analysis & Data Analytics Portfolio
