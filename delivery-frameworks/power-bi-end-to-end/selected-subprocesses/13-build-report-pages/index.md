@@ -134,7 +134,7 @@ The following remain private:
 
 ---
 
-[← Previous Selected Example: 07 — Define the Semantic Model →](../07-define-the-semantic-model/) · [Selected Subprocesses](/delivery-frameworks/power-bi-end-to-end/selected-subprocesses/) · [Next Selected Example: 18 — Perform End-to-End Source-to-Report Testing →](../18-perform-end-to-end-testing/)
+[← Previous Selected Example: 07 — Define the Semantic Model →](../07-define-the-semantic-model/) · [Selected Subprocesses](/delivery-frameworks/power-bi-end-to-end/selected-subprocesses/) · [Next Selected Example: 18 — Perform End-to-End Source-to-Report Testing →](../18-perform-end-to-end-source-to-report-testing/)
 
 ---
 
